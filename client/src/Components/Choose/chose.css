@@ -1,0 +1,506 @@
+h2{
+  text-align: center;
+}
+.chosebody{
+    height: 1043px;
+    padding: 5px;
+    margin-top: 79px;
+  margin-bottom: 80px;
+}
+.wholechose{
+    height: 870px;
+    width: 1326px;
+    max-width: 1326px;
+    display: flex;
+    padding: 8px;
+}
+.burgerbody{
+  
+    height: 800px;
+    width: 549px;
+    border-radius: 34px;
+    box-shadow: 5px 19px 27px #919191;
+}
+.seip2{
+    height: 848px;
+    width: 747px;
+  margin-left: 10px;
+}
+.seis1{
+    width: 745px;
+  height: 400px;
+  display: flex;
+}
+.seis2{
+    width: 745px;
+  height: 400px;
+  display: flex;
+  margin-top: 16px;
+}
+.seisf1{
+  
+    width: 338px;
+  height: 390px;
+  margin-left: 17px;
+  border-radius: 27px;
+  box-shadow: 5px 19px 27px #919191;
+}
+.seisf2{
+  
+    width: 338px;
+  height: 390px;
+  margin-left: 17px;
+  border-radius: 27px;
+  box-shadow: 5px 19px 27px #919191;
+}
+.seisf3{
+  
+    width: 338px;
+  height: 390px;
+  margin-left: 17px;
+  margin-top: 9px;
+  border-radius: 27px;
+  box-shadow: 5px 19px 27px #919191;
+}
+.seisf4{
+  
+    width: 338px;
+  height: 390px;
+  margin-left: 17px;
+  margin-top: 9px;
+  border-radius: 27px;
+  box-shadow: 5px 19px 27px #919191;
+}
+.bugimger, .buughover{
+  
+  width: 549px;
+  height: 622px;
+  border-radius: 34px 34px 0px 0px;
+}
+.seisf1-1,.hoversmall{
+  
+  width: 338px;
+  height: 269px;
+  border-radius: 27px 27px 0px 0px;
+}
+.bugimger{
+  position: relative;
+  margin: auto;
+  overflow: hidden;
+}
+.bugimger,.buughover {
+  transition: all 0.3s;
+  display: block;
+  transform: scale(1);
+}
+
+.bugimger:hover .buughover {
+  transform: scale(1.2);
+}
+.seisf1-1{
+  position: relative;
+  margin: auto;
+  overflow: hidden;
+}
+.seisf1-1,.hoversmall {
+  transition: all 0.3s;
+  display: block;
+  transform: scale(1);
+}
+
+.seisf1-1:hover .hoversmall {
+  transform: scale(1.2);
+}
+h2{
+  font-family:Brush Script MT;
+  font-size:80px;
+  margin-top: 10px;
+  margin-bottom: 35px;
+  text-transform: capitalize;
+}
+.di{
+  margin-left: 20px;
+}
+.meincgt{
+  background-image: url(../../assets/card/background.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
+.categories {
+  height: 1447px;
+  width: 1300px;
+  max-width: 1300px;
+  text-align: left;
+}
+
+.part1 {
+  width: 1300px;
+  max-width: 1300px;
+}
+
+.innerpart {
+  padding-top: 17px;
+  display: flex;
+  width: 1300px;
+  max-width: 1300px;
+
+}
+
+.fdim {
+  width: 300px;
+  height: 400px;
+  margin-left: 17px;
+  border-radius: 29px;
+  box-shadow: 6px 9px 33px #000;
+  backdrop-filter: blur(16px);
+  color: white;
+}
+
+.picf {
+  width: 300px;
+  height: 258px;
+  border-radius: 29px 29px 0px 0px;
+  transition: 0.5s;
+}
+.picf:hover{
+  opacity: 2;
+}
+.buttonfd{
+  display: flex;
+  width: 1300px;
+  max-width: 1300px;
+  backdrop-filter: blur(0px);
+}
+.sfdim {
+width: 188px;
+height: 75px;
+margin-left: 60px;
+margin-right: 73px;
+margin-top: -38px;
+}
+.part2 {
+  width: 1300px;
+  max-width: 1300px;
+  margin-top: 23px;
+}
+.picf1{
+  background-image: url(../../assets/chose/chickenchilli.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.picf2{
+  background-image: url(../../assets/chose/chickenpulao.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.picf3{
+  background-image: url(../../assets/chose/chocklate\ milkshake.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.picf4{
+  background-image: url(../../assets/chose/cold\ coffe.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.picf5{
+  background-image: url(../../assets/chose/delicious\ faluda.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.picf6{
+  background-image: url(../../assets/chose/muttonbiryani.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.picf7{
+  background-image: url(../../assets/chose/spicey\ burger.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.picf8{
+  background-image: url(../../assets/chose/Spicey\ Noodles.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.picf9{
+  background-image: url(../../assets/chose/fried-rice.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.picf10{
+  background-image: url(../../assets/chose/mughlai.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.picf11{
+  background-image: url(../../assets/chose/strawberry.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.picf12{
+  background-image: url(../../assets/Foods/pizza.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.cgfoods{
+  font-size: 25px;
+text-align: left;
+font-weight: bold;
+}
+.pricecg{
+  font-size: 20px;
+}
+.MenuOp {
+  height: 471px;
+  max-width: 1296px;
+  padding-top: 5px;
+  margin-bottom: 30px;
+}
+.menubackground{
+  height: 532px;
+  padding: 21px;
+}
+
+.fistm {
+  display: flex;
+  height: 183px;
+}
+
+.dim {
+  width: 300px;
+  height: 174px;
+  margin-top: 2px;
+  margin-left: 13px;
+  border-radius: 10px;
+  
+}
+
+.secondtm {
+  display: flex;
+  height: 157px;
+  margin-top: -62px;
+}
+
+.vim {
+  width: 229px;
+  height: 105px;
+  margin-top: 2px;
+  margin-left: 46px;
+  border-radius: 10px;
+  margin-right: 40px;
+  backdrop-filter: blur(50px);
+  box-shadow: 12px 10px 24px #5e5a5a;
+  text-align: center;
+}
+
+.thirdtm {
+  display: flex;
+  height: 58px;
+  margin-top: -75px;
+}
+
+.cim {
+  width: 141px;
+  height: 44px;
+  margin-top: 2px;
+  margin-left: 85px;
+  border-radius: 72px;
+  margin-right: 91px;
+  backdrop-filter: blur(0px);
+}
+
+.firstm {
+  background-image: url(../../assets/about/pizza.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.secondm {
+  background-image: url(../../assets/about/biryanni.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.thirdm {
+  background-image: url(../../assets/about/burger.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.forthm {
+  background-image: url(../../assets/about/cake.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.designrd1 {
+  position: absolute;
+  top: 1576px;
+  left: 92px;
+  width: 37px;
+  height: 17px;
+}
+.designrd2{
+  position: absolute;
+top: 1576px;
+left: 405px;
+width: 37px;
+height: 17px;
+}
+.designrd3{
+  position: absolute;
+top: 1576px;
+left: 720px;
+width: 37px;
+height: 17px;
+}
+.designrd4{
+  position: absolute;
+top: 1576px;
+left: 1035px;
+width: 37px;
+height: 17px;
+}
+.Secondp {
+  background-image: url(../../assets/Secondp/Image1.jpg);
+  height: 574px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-top: 11px;
+}
+
+.blurycon {
+  display: flex;
+  height: 552px;
+  width: 1336px;
+  max-width: 1336px;
+  padding: 33px;
+}
+
+.firstscdp {
+  width: 647px;
+  height: 472px;
+  margin-right: 75px;
+  backdrop-filter: blur(16px);
+  border-radius: 24px;
+  box-shadow: 10px 11px 40px #090909;
+  padding: 17px;
+}
+
+.secondscdp {
+  width: 538px;
+  height: 472px;
+  backdrop-filter: blur(16px);
+  border-radius: 24px;
+  box-shadow: 10px 11px 40px #090909;
+  padding-top: 23px;
+  padding-left: 52px;
+}
+
+.ft1 {
+  width: 238px;
+  height: 200px;
+  background-image: url(../../assets/pizzawood.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.ft2 {
+  width: 357px;
+  height: 200px;
+  margin-left: 6px;
+}
+
+.ft3 {
+  width: 601px;
+  height: 229px;
+  padding: 2px;
+  text-align: left;
+}
+
+.designbtncdp {
+  appearance: none;
+  background-color: #000000;
+  border: 2px solid #1A1A1A;
+  border-radius: 15px;
+  box-sizing: border-box;
+  color: #FFFFFF;
+  cursor: pointer;
+  display: inline-block;
+  font-family: Roobert, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-size: 16px;
+  font-weight: 600;
+  line-height: normal;
+  min-height: 60px;
+  min-width: 0;
+  outline: none;
+  padding: 16px 24px;
+  text-align: center;
+  text-decoration: none;
+  transition: all 300ms cubic-bezier(.23, 1, 0.32, 1);
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  width: 100%;
+  will-change: transform;
+}
+
+.designbtncdp:disabled {
+  pointer-events: none;
+}
+
+.designbtncdp:hover {
+  box-shadow: rgba(0, 0, 0, 0.25) 0 8px 15px;
+  transform: translateY(-2px);
+}
+
+.designbtncdp:active {
+  box-shadow: none;
+  transform: translateY(0);
+}
+
+.imagecdp {
+  width: 426px;
+  height: 430px;
+  background: url(../../assets/rotatepizza.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+@-webkit-keyframes imagecdp /* Safari and Chrome */ {
+  from {
+    -webkit-transform: rotate(0deg);
+    -o-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  to {
+    -webkit-transform: rotate(360deg);
+    -o-transform: rotate(360deg);
+    transform: rotate(360deg);
+  }
+}
+@keyframes imagecdp {
+  from {
+    -ms-transform: rotate(0deg);
+    -moz-transform: rotate(0deg);
+    -webkit-transform: rotate(0deg);
+    -o-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  to {
+    -ms-transform: rotate(360deg);
+    -moz-transform: rotate(360deg);
+    -webkit-transform: rotate(360deg);
+    -o-transform: rotate(360deg);
+    transform: rotate(360deg);
+  }
+}
+.imagecdp {
+  -webkit-animation: imagecdp 20s linear infinite;
+  -moz-animation: imagecdp 20s linear infinite;
+  -ms-animation: imagecdp 20s linear infinite;
+  -o-animation: imagecdp 20s linear infinite;
+  animation: imagecdp 20s linear infinite;
+}

@@ -1,0 +1,35 @@
+.AddToCart{
+    height: 234px;
+    background-image: url(../../assets/cart/coffee-3120750_1920.jpg);
+    background-size: cover;
+}
+.foodDetails{
+    height: 2500px;
+    width: 1342px;
+  max-width: 1342px;
+  display: flex;
+  padding-top: 19px;
+  padding-left: 0;
+  padding-right: 0;
+}
+.OrderPart{
+    
+    width: 980px;
+    height: 2400px;
+}
+.totalPart{
+    
+  width: 329px;
+  height: 367px;
+  margin-left: 28px;
+  box-shadow: 12px 22px 28px #605f5f;
+  border-radius: 26px;
+  padding: 12px;
+}
+.OrderHeading{
+    height: 78px;
+    display: flex;
+    box-shadow: 8px 15px 16px #aaa5a5;
+  margin-bottom: 33px;
+  border-radius: 28px
+}

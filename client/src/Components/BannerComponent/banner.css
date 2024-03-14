@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:regular,bold,italic&subset=latin,latin-ext');
+
+.bn1{
+    width: 600px;
+    height:692px;
+}
+.carousel-item{
+    animation: zoomin 80s 1;
+}
+
+.bannerM1{
+    background-color: white;
+    
+}
+.bannerM2{
+    background-image: url(../../assets/banner/sl1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.bannerM3{
+    background-image: url(../../assets/banner/sl4.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.bannerM4{
+    background-image: url(../../assets/banner/sl3.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.firstbannermein{
+
+    height: 860px;
+    display: flex;
+    padding: 0;
+    width: 1352px;
+  max-width: 1352px;
+}
+.bannerp-1{
+    
+    width: 710px;
+    height: 860px;
+}
+.bannerp-2{
+    
+    width: 638px;
+    height: 860px;
+    padding-top: 35px;
+}
+.Bannertext-1{
+    font-size: 92px;
+    margin-top: -24px;
+    text-align: left;
+    font-weight: bold;
+    font-family: Ephesis;
+}
+.banner-tx-1{
+    margin-left: 45px;
+    margin-top: 50px;
+    text-align:left;
+}
+.circle{
+    position:absolute;
+
+}
