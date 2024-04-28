@@ -12,8 +12,6 @@ import Join from "../../Components/JoinPartner/join"
 export default function Home() {
     const dispatch = useDispatch();
 
-
-    // add to cart 
     const send = (e) => {
         dispatch(addToCart(e))
         toast.success("Item added In Your Cart")
@@ -21,11 +19,7 @@ export default function Home() {
     return (
         <>
             <BannerComponent />
-            <Chose send={send} />
-            <BrandsSection />
-            <Works />
-            <Pricing2 />
-            <Join />
+            
         </>
     )
 }
