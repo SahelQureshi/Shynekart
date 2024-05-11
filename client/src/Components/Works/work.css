@@ -1,8 +1,189 @@
+@media only screen and (min-width: 350px) {
+    .howddd{
+        background-image: url(../../assets/about/fried-crab-with-curry-powder-plate-with-bell-peppers-tomatoes.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+        padding: 14px;
+        padding-bottom: 47px;
+    }
+    
+    .designbutton{display: inline-block;
+    outline: 0;
+    border: none;
+    box-shadow: none;
+    cursor: pointer;
+    padding: 9px 22px;
+    font-size: 22px;
+    height: 50px;
+    font-weight: 400;
+    color: #fff;
+    text-align: center;
+    line-height: normal;
+    background: linear-gradient(90deg,#5522fa 0,#0074e4 100%);
+    border-radius: 50px;
+    transition: color .2s ease,background-color .2s ease,box-shadow .2s ease;}
+    .designbutton:hover{
+        box-shadow: 0 0 0 0.15rem #5ceace;
+    }
+    .Wor28KHir{
+        width: 100%;
+      padding: 6px;
+      backdrop-filter: blur(22px);
+      border-radius: 43px;
+      color: white;
+      box-shadow: black 44px 43px 72px;
+      font-size: 9px;
+    }
+.workDEfaultHead{
+    font-size: 17px;
+}
+.ImgaeWori49{
+    width:100%;
+    height:100%;
+}
+     }
+
+@media only screen and (min-width: 550px) {
+    .howddd{
+        background-image: url(../../assets/about/fried-crab-with-curry-powder-plate-with-bell-peppers-tomatoes.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+        padding: 14px;
+        padding-bottom: 47px;
+    }
+    
+    .designbutton{display: inline-block;
+    outline: 0;
+    border: none;
+    box-shadow: none;
+    cursor: pointer;
+    padding: 9px 22px;
+    font-size: 22px;
+    height: 50px;
+    font-weight: 400;
+    color: #fff;
+    text-align: center;
+    line-height: normal;
+    background: linear-gradient(90deg,#5522fa 0,#0074e4 100%);
+    border-radius: 50px;
+    transition: color .2s ease,background-color .2s ease,box-shadow .2s ease;}
+    .designbutton:hover{
+        box-shadow: 0 0 0 0.15rem #5ceace;
+    }
+    .Wor28KHir{
+        width: 100%;
+      padding: 6px;
+      backdrop-filter: blur(22px);
+      border-radius: 43px;
+      color: white;
+      box-shadow: black 44px 43px 72px;
+      font-size: 11px;
+    }
+.workDEfaultHead{
+    font-size: 27px;
+}
+.ImgaeWori49{
+    width:100%;
+    height:100%;
+}
+     }
+
+@media only screen and (min-width: 768px) {
+    .howddd{
+        background-image: url(../../assets/about/fried-crab-with-curry-powder-plate-with-bell-peppers-tomatoes.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+        padding: 14px;
+        padding-bottom: 47px;
+    }
+    
+    .designbutton{display: inline-block;
+    outline: 0;
+    border: none;
+    box-shadow: none;
+    cursor: pointer;
+    padding: 9px 22px;
+    font-size: 22px;
+    height: 50px;
+    font-weight: 400;
+    color: #fff;
+    text-align: center;
+    line-height: normal;
+    background: linear-gradient(90deg,#5522fa 0,#0074e4 100%);
+    border-radius: 50px;
+    transition: color .2s ease,background-color .2s ease,box-shadow .2s ease;}
+    .designbutton:hover{
+        box-shadow: 0 0 0 0.15rem #5ceace;
+    }
+    .Wor28KHir{
+        width: 100%;
+      padding: 20px;
+      backdrop-filter: blur(22px);
+      border-radius: 43px;
+      color: white;
+      box-shadow: black 44px 43px 72px;
+    }
+.workDEfaultHead{
+    font-size: 27px;
+}
+.ImgaeWori49{
+    width:100%;
+    height:100%;
+}
+     }
+
+
+@media only screen and (min-width: 992px) {
+    .howddd{
+        background-image: url(../../assets/about/fried-crab-with-curry-powder-plate-with-bell-peppers-tomatoes.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+        padding: 14px;
+        padding-bottom: 47px;
+    }
+    
+    .designbutton{display: inline-block;
+    outline: 0;
+    border: none;
+    box-shadow: none;
+    cursor: pointer;
+    padding: 9px 22px;
+    font-size: 22px;
+    height: 50px;
+    font-weight: 400;
+    color: #fff;
+    text-align: center;
+    line-height: normal;
+    background: linear-gradient(90deg,#5522fa 0,#0074e4 100%);
+    border-radius: 50px;
+    transition: color .2s ease,background-color .2s ease,box-shadow .2s ease;}
+    .designbutton:hover{
+        box-shadow: 0 0 0 0.15rem #5ceace;
+    }
+    .Wor28KHir{
+        width: 100%;
+      padding: 20px;
+      backdrop-filter: blur(22px);
+      border-radius: 43px;
+      color: white;
+      box-shadow: black 44px 43px 72px;
+    }
+.workDEfaultHead{
+    font-size: 40px;
+}
+.ImgaeWori49{
+    width:100%;
+    height:100%;
+}
+     }
+
+@media only screen and (min-width: 1200px) {
 .howddd{
     background-image: url(../../assets/about/fried-crab-with-curry-powder-plate-with-bell-peppers-tomatoes.jpg);
     background-size: cover;
     background-repeat: no-repeat;
-    padding: 52px;
+    padding: 14px;
+    padding-bottom: 47px;
 }
 
 .designbutton{display: inline-block;
@@ -23,3 +204,19 @@ transition: color .2s ease,background-color .2s ease,box-shadow .2s ease;}
 .designbutton:hover{
     box-shadow: 0 0 0 0.15rem #5ceace;
 }
+.Wor28KHir{
+    width: 100%;
+  padding: 20px;
+  backdrop-filter: blur(22px);
+  border-radius: 43px;
+  color: white;
+  box-shadow: black 44px 43px 72px;
+}
+.workDEfaultHead{
+    font-size: 40px;
+}
+.ImgaeWori49{
+    width:100%;
+    height:100%;
+}
+ }

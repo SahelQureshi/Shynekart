@@ -19,7 +19,11 @@ export default function Home() {
     return (
         <>
             <BannerComponent />
-            
+            <Chose send={send} />
+            <BrandsSection/>
+            <Works/>
+            <Pricing2/>
+            <Join/>
         </>
     )
 }

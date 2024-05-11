@@ -1,5 +1,2332 @@
+
+@media only screen and (min-width: 350px) {
+  .meip1{
+    width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 35px;
+  }
+  .Burj3984{
+    font-size: 32px;
+  font-weight: bold;
+  }
+  .burh4498{
+    font-size: 32px;
+  font-weight: bold;
+  }
+  h2{
+    text-align: center;
+  }
+  .heelouirchosej{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .h4chose1{
+    font-size: 27px;
+    font-weight: bold;
+  }
+  .h5chose1{
+    font-size: 23px;
+    font-weight: bold;
+  }
+  .BTnDESIChose4{
+      width: 74%;
+      height: 57px;
+      border-radius: 119px;
+      margin-bottom: -50px;
+  }
+  .BtnSMalllItn{
+    width: 90px;
+    height: 34px;
+    border-radius: 34px;
+    font-size: 12px;
+  }
+  .DesiFirstBT{
+    width: 65% !important;
+    height: 51px !important;
+    margin-top: -6px !important;
+    min-height:0px !important
+  }
+  .chosebody{
+    padding: 5px;
+    margin-top: 79px;
+    margin-bottom: 13px;
+    height: auto;
+  }
+  .wholechose{
+      height: auto;
+      width: 100%;
+      max-width: 1326px;
+      display: flex;
+      padding: 8px;
+      text-align: left;
+      flex-wrap: wrap;
+  }
+  .burgerbody{
+    height: 572px;
+    width: 75vw;
+    border-radius: 34px;
+    box-shadow: 5px 19px 27px #919191;
+  }
+  .seip2{
+    height: auto;
+    width: 100%;
+    margin-left: 0px;
+  }
+  .seis1{
+    width: 100%;
+    height: 333px;
+    display: flex;
+  }
+  .seis2{
+    height:333px;
+    display: flex;
+    margin-top: 16px;
+    width: 100%;
+  }
+  .seisf1{
+    width: 45%;
+      height: auto;
+      margin-left: 17px;
+      border-radius: 27px;
+      box-shadow: 5px 19px 27px #919191;
+      overflow: hidden;
+  }
+  .seisf2{
+    width: 45%;
+      height: auto;
+      margin-left: 17px;
+      border-radius: 27px;
+      box-shadow: 5px 19px 27px #919191;
+      overflow: hidden;
+  }
+  .seisf3{
+    width: 45%;
+      height: auto;
+      margin-left: 17px;
+      margin-top: 9px;
+      border-radius: 27px;
+      box-shadow: 5px 19px 27px #919191;
+      overflow: hidden;
+  }
+  .seisf4{
+    width: 45%;
+      height: auto;
+      margin-left: 17px;
+      margin-top: 9px;
+      border-radius: 27px;
+      box-shadow: 5px 19px 27px #919191;
+      overflow: hidden;
+  }
+  .bugimger, .buughover{
+    
+    width: 100%;
+    height: 401px;
+    border-radius: 34px 34px 0px 0px;
+  }
+  .seisf1-1,.hoversmall{
+    
+    width: 338px;
+    height: 202px;
+    border-radius: 27px 27px 0px 0px;
+  }
+  .bugimger{
+    position: relative;
+    margin: auto;
+    overflow: hidden;
+  }
+  .bugimger,.buughover {
+    transition: all 0.3s;
+    display: block;
+    transform: scale(1);
+  }
+  
+  .bugimger:hover .buughover {
+    transform: scale(1.2);
+  }
+  .seisf1-1{
+    position: relative;
+    margin: auto;
+    overflow: hidden;
+  }
+  .seisf1-1,.hoversmall {
+    transition: all 0.3s;
+    display: block;
+    transform: scale(1);
+  }
+  
+  .seisf1-1:hover .hoversmall {
+    transform: scale(1.2);
+  }
+  h2{
+    font-family:Brush Script MT;
+    font-size:53px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-transform: capitalize;
+  }
+  .di{
+    margin-left: 6px;
+  }
+  .meincgt{
+    background-image: url(../../assets/card/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+  }
+  .categories {
+    height: auto;
+    width: 100%;
+    max-width: 1300px;
+    text-align: left;
+    padding-bottom: 63px;
+    padding: 0;
+  }
+  
+  .part1 {
+    width: 100%;
+    max-width: 1300px;
+    padding: 0;
+  }
+  
+  .innerpart {
+    padding-top: 17px;
+    display: flex;
+    width: 100%;
+    max-width: 1300px;
+    flex-wrap: wrap;
+  }
+  
+  .fdim {
+    width: 44%;
+    height: 319px;
+    margin-left: 17px;
+    border-radius: 29px;
+    box-shadow: 6px 9px 33px #000;
+    backdrop-filter: blur(16px);
+    color: white;
+    overflow: hidden;
+    margin-bottom: 30px;
+  }
+  
+  .picf {
+    width: 100%;
+    height: 192px;
+    border-radius: 29px 29px 0px 0px;
+    transition: 0.5s;
+  }
+  .picf:hover{
+    opacity: 2;
+  }
+  .buttonfd{
+    display: flex;
+    width: 100%;
+    max-width: 1300px;
+    backdrop-filter: blur(0px);
+  }
+  .part2 {
+    width: 100%;
+    max-width: 1300px;
+    margin-top: 23px;
+  }
+  .picf1{
+    background-image: url(../../assets/chose/chickenchilli.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .picf2{
+    background-image: url(../../assets/chose/chickenpulao.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .picf3{
+    background-image: url(../../assets/chose/chocklate\ milkshake.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .picf4{
+    background-image: url(../../assets/chose/cold\ coffe.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .picf5{
+    background-image: url(../../assets/chose/delicious\ faluda.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .picf6{
+    background-image: url(../../assets/chose/muttonbiryani.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .picf7{
+    background-image: url(../../assets/chose/spicey\ burger.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .picf8{
+    background-image: url(../../assets/chose/Spicey\ Noodles.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .picf9{
+    background-image: url(../../assets/chose/fried-rice.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .picf10{
+    background-image: url(../../assets/chose/mughlai.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .picf11{
+    background-image: url(../../assets/chose/strawberry.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .picf12{
+    background-image: url(../../assets/Foods/pizza.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  .cgfoods{
+    font-size: 16px;
+  text-align: left;
+  font-weight: bold;
+  text-align: center;
+  }
+  .pricecg{
+    font-size: 14px;
+    text-align: center;
+  }
+  .MenuOp {
+    height: 654px;
+    max-width: 1296px;
+    padding-top: 5px;
+    margin-bottom: 30px;
+  }
+  .menubackground{
+    height: auto;
+    padding: 3px;
+  }
+  
+  .fistm {
+    display: flex;
+    height: 183px;
+    flex-wrap: wrap;
+  }
+  
+  .dim {
+    width: 45%;
+    height: 174px;
+    margin-top: 2px;
+    margin-left: 13px;
+    border-radius: 10px;
+    margin-bottom: 85px;
+    
+  }
+  
+  .secondtm {
+    display: flex;
+    height: 157px;
+    margin-top: -62px;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  
+  .vim {
+    width: 134px;
+    height: 72px;
+    margin-top: 2px;
+    margin-left: 4.1vw;
+    border-radius: 10px;
+    margin-right: 3.2vw;
+    backdrop-filter: blur(50px);
+    box-shadow: 12px 10px 24px #5e5a5a;
+    text-align: center;
+    margin-bottom: 205px;
+  }
+  
+  .thirdtm {
+    display: flex;
+    height: 58px;
+    margin-top: -75px;
+  }
+  
+  .cim {
+    width: 141px;
+    height: 44px;
+    margin-top: 2px;
+    margin-left: 85px;
+    border-radius: 72px;
+    margin-right: 91px;
+    backdrop-filter: blur(0px);
+  }
+  
+  .firstm {
+    background-image: url(../../assets/about/pizza.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  .secondm {
+    background-image: url(../../assets/about/biryanni.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  .thirdm {
+    background-image: url(../../assets/about/burger.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  .forthm {
+    background-image: url(../../assets/about/cake.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  .designrd1 {
+    position: absolute;
+    top: 1576px;
+    left: 92px;
+    width: 37px;
+    height: 17px;
+  }
+  .designrd2{
+    position: absolute;
+  top: 1576px;
+  left: 405px;
+  width: 37px;
+  height: 17px;
+  }
+  .designrd3{
+    position: absolute;
+  top: 1576px;
+  left: 720px;
+  width: 37px;
+  height: 17px;
+  }
+  .designrd4{
+    position: absolute;
+  top: 1576px;
+  left: 1035px;
+  width: 37px;
+  height: 17px;
+  }
+  .Secondp {
+    background-image: url(../../assets/Secondp/Image1.jpg);
+    height: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 11px;
+    padding-bottom: 30px;
+  }
+  
+  .blurycon {
+    display: flex;
+    height: auto;
+    width: 100%;
+    max-width: 1336px;
+    padding: 6px;
+    flex-wrap: wrap-reverse;
+  }
+  .FirstDOIPtrs{
+    font-Size: 48px;
+    font-Family: "Brush Script MT";
+    color: white;
+  }
+  .FirstDpPTs{
+    font-size: 43px;
+    font-weight: bold;
+    text-align: right;
+  }
+  .firstscdp {
+    width: 100%;
+    height: 472px;
+    backdrop-filter: blur(16px);
+    border-radius: 24px;
+    box-shadow: 10px 11px 40px #090909;
+    padding: 5px;
+  }
+  
+  .secondscdp {
+    width: 100%;
+    height: 472px;
+    backdrop-filter: blur(16px);
+    border-radius: 24px;
+    box-shadow: 10px 11px 40px #090909;
+    padding-top: 23px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 35px;
+  }
+  
+  .ft1 {
+    width: 230px;
+    height: 115px;
+    background-image: url(../../assets/pizzawood.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  .ft2 {
+    width: 357px;
+    height: 200px;
+    margin-left: 6px;
+  }
+  
+  .ft3 {
+    width: 100%;
+    height: 229px;
+    padding: 2px;
+    text-align: left;
+  }
+  
+  .designbtncdp {
+    appearance: none;
+    background-color: #000000;
+    border: 2px solid #1A1A1A;
+    border-radius: 15px;
+    box-sizing: border-box;
+    color: #FFFFFF;
+    cursor: pointer;
+    display: inline-block;
+    font-family: Roobert, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-size: 16px;
+    font-weight: 600;
+    line-height: normal;
+    min-height: 60px;
+    min-width: 0;
+    outline: none;
+    padding: 16px 24px;
+    text-align: center;
+    text-decoration: none;
+    transition: all 300ms cubic-bezier(.23, 1, 0.32, 1);
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    width: 100%;
+    will-change: transform;
+  }
+  
+  .designbtncdp:disabled {
+    pointer-events: none;
+  }
+  
+  .designbtncdp:hover {
+    box-shadow: rgba(0, 0, 0, 0.25) 0 8px 15px;
+    transform: translateY(-2px);
+  }
+  
+  .designbtncdp:active {
+    box-shadow: none;
+    transform: translateY(0);
+  }
+  .firstjjirjhdp{
+    color: white;
+  font-size: 12px;
+  font-weight: bold;
+  }
+  .imagecdp {
+    width: 299px;
+    height: 299px;
+    background: url(../../assets/rotatepizza.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  @-webkit-keyframes imagecdp /* Safari and Chrome */ {
+    from {
+      -webkit-transform: rotate(0deg);
+      -o-transform: rotate(0deg);
+      transform: rotate(0deg);
+    }
+    to {
+      -webkit-transform: rotate(360deg);
+      -o-transform: rotate(360deg);
+      transform: rotate(360deg);
+    }
+  }
+  @keyframes imagecdp {
+    from {
+      -ms-transform: rotate(0deg);
+      -moz-transform: rotate(0deg);
+      -webkit-transform: rotate(0deg);
+      -o-transform: rotate(0deg);
+      transform: rotate(0deg);
+    }
+    to {
+      -ms-transform: rotate(360deg);
+      -moz-transform: rotate(360deg);
+      -webkit-transform: rotate(360deg);
+      -o-transform: rotate(360deg);
+      transform: rotate(360deg);
+    }
+  }
+  .imagecdp {
+    -webkit-animation: imagecdp 20s linear infinite;
+    -moz-animation: imagecdp 20s linear infinite;
+    -ms-animation: imagecdp 20s linear infinite;
+    -o-animation: imagecdp 20s linear infinite;
+    animation: imagecdp 20s linear infinite;
+  }
+  }
+
+
+@media only screen and (min-width: 550px) {
+  .meip1{
+    width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 35px;
+  }
+  .Burj3984{
+    font-size: 32px;
+  font-weight: bold;
+  }
+  .burh4498{
+    font-size: 32px;
+  font-weight: bold;
+  }
+  h2{
+    text-align: center;
+  }
+  .heelouirchosej{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .h4chose1{
+    font-size: 27px;
+    font-weight: bold;
+  }
+  .h5chose1{
+    font-size: 23px;
+    font-weight: bold;
+  }
+  .BTnDESIChose4{
+      width: 74%;
+      height: 57px;
+      border-radius: 119px;
+      margin-bottom: -50px;
+  }
+  .BtnSMalllItn{
+    width: 90px;
+    height: 34px;
+    border-radius: 34px;
+    font-size: 12px;
+  }
+  .DesiFirstBT{
+    width: 65% !important;
+    height: 51px !important;
+    margin-top: -6px !important;
+    min-height:0px !important
+  }
+  .chosebody{
+    padding: 5px;
+    margin-top: 79px;
+    margin-bottom: 13px;
+    height: auto;
+  }
+  .wholechose{
+      height: auto;
+      width: 100%;
+      max-width: 1326px;
+      display: flex;
+      padding: 8px;
+      text-align: left;
+      flex-wrap: wrap;
+  }
+  .burgerbody{
+    height: 572px;
+    width: 75vw;
+    border-radius: 34px;
+    box-shadow: 5px 19px 27px #919191;
+  }
+  .seip2{
+    height: auto;
+    width: 100%;
+    margin-left: 0px;
+  }
+  .seis1{
+    width: 100%;
+    height: 333px;
+    display: flex;
+  }
+  .seis2{
+    height:333px;
+    display: flex;
+    margin-top: 16px;
+    width: 100%;
+  }
+  .seisf1{
+    width: 45%;
+      height: auto;
+      margin-left: 17px;
+      border-radius: 27px;
+      box-shadow: 5px 19px 27px #919191;
+      overflow: hidden;
+  }
+  .seisf2{
+    width: 45%;
+      height: auto;
+      margin-left: 17px;
+      border-radius: 27px;
+      box-shadow: 5px 19px 27px #919191;
+      overflow: hidden;
+  }
+  .seisf3{
+    width: 45%;
+      height: auto;
+      margin-left: 17px;
+      margin-top: 9px;
+      border-radius: 27px;
+      box-shadow: 5px 19px 27px #919191;
+      overflow: hidden;
+  }
+  .seisf4{
+    width: 45%;
+      height: auto;
+      margin-left: 17px;
+      margin-top: 9px;
+      border-radius: 27px;
+      box-shadow: 5px 19px 27px #919191;
+      overflow: hidden;
+  }
+  .bugimger, .buughover{
+    
+    width: 100%;
+    height: 401px;
+    border-radius: 34px 34px 0px 0px;
+  }
+  .seisf1-1,.hoversmall{
+    
+    width: 338px;
+    height: 202px;
+    border-radius: 27px 27px 0px 0px;
+  }
+  .bugimger{
+    position: relative;
+    margin: auto;
+    overflow: hidden;
+  }
+  .bugimger,.buughover {
+    transition: all 0.3s;
+    display: block;
+    transform: scale(1);
+  }
+  
+  .bugimger:hover .buughover {
+    transform: scale(1.2);
+  }
+  .seisf1-1{
+    position: relative;
+    margin: auto;
+    overflow: hidden;
+  }
+  .seisf1-1,.hoversmall {
+    transition: all 0.3s;
+    display: block;
+    transform: scale(1);
+  }
+  
+  .seisf1-1:hover .hoversmall {
+    transform: scale(1.2);
+  }
+  h2{
+    font-family:Brush Script MT;
+    font-size:80px;
+    margin-top: 10px;
+    margin-bottom: 35px;
+    text-transform: capitalize;
+  }
+  .di{
+    margin-left: 20px;
+  }
+  .meincgt{
+    background-image: url(../../assets/card/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+  }
+  .categories {
+    height: auto;
+    width: 100%;
+    max-width: 1300px;
+    text-align: left;
+    padding-bottom: 63px;
+  }
+  
+  .part1 {
+    width: 100%;
+    max-width: 1300px;
+  }
+  
+  .innerpart {
+    padding-top: 17px;
+    display: flex;
+    width: 100%;
+    max-width: 1300px;
+    flex-wrap: wrap;
+  }
+  
+  .fdim {
+    width: 46%;
+    height: 319px;
+    margin-left: 17px;
+    border-radius: 29px;
+    box-shadow: 6px 9px 33px #000;
+    backdrop-filter: blur(16px);
+    color: white;
+    overflow: hidden;
+    margin-bottom: 30px;
+  }
+  
+  .picf {
+    width: 100%;
+    height: 192px;
+    border-radius: 29px 29px 0px 0px;
+    transition: 0.5s;
+  }
+  .picf:hover{
+    opacity: 2;
+  }
+  .buttonfd{
+    display: flex;
+    width: 100%;
+    max-width: 1300px;
+    backdrop-filter: blur(0px);
+  }
+  .part2 {
+    width: 100%;
+    max-width: 1300px;
+    margin-top: 23px;
+  }
+  .picf1{
+    background-image: url(../../assets/chose/chickenchilli.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .picf2{
+    background-image: url(../../assets/chose/chickenpulao.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .picf3{
+    background-image: url(../../assets/chose/chocklate\ milkshake.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .picf4{
+    background-image: url(../../assets/chose/cold\ coffe.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .picf5{
+    background-image: url(../../assets/chose/delicious\ faluda.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .picf6{
+    background-image: url(../../assets/chose/muttonbiryani.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .picf7{
+    background-image: url(../../assets/chose/spicey\ burger.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .picf8{
+    background-image: url(../../assets/chose/Spicey\ Noodles.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .picf9{
+    background-image: url(../../assets/chose/fried-rice.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .picf10{
+    background-image: url(../../assets/chose/mughlai.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .picf11{
+    background-image: url(../../assets/chose/strawberry.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .picf12{
+    background-image: url(../../assets/Foods/pizza.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  .cgfoods{
+    font-size: 16px;
+  text-align: left;
+  font-weight: bold;
+  text-align: center;
+  }
+  .pricecg{
+    font-size: 14px;
+    text-align: center;
+  }
+  .MenuOp {
+    height: 654px;
+    max-width: 1296px;
+    padding-top: 5px;
+    margin-bottom: 30px;
+  }
+  .menubackground{
+    height: auto;
+    padding: 3px;
+  }
+  
+  .fistm {
+    display: flex;
+    height: 183px;
+    flex-wrap: wrap;
+  }
+  
+  .dim {
+    width: 47%;
+    height: 174px;
+    margin-top: 2px;
+    margin-left: 13px;
+    border-radius: 10px;
+    margin-bottom: 85px;
+    
+  }
+  
+  .secondtm {
+    display: flex;
+    height: 157px;
+    margin-top: -62px;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  
+  .vim {
+    width: 213px;
+    height: 72px;
+    margin-top: 2px;
+    margin-left: 4.1vw;
+    border-radius: 10px;
+    margin-right: 3.2vw;
+    backdrop-filter: blur(50px);
+    box-shadow: 12px 10px 24px #5e5a5a;
+    text-align: center;
+    margin-bottom: 205px;
+  }
+  
+  .thirdtm {
+    display: flex;
+    height: 58px;
+    margin-top: -75px;
+  }
+  
+  .cim {
+    width: 141px;
+    height: 44px;
+    margin-top: 2px;
+    margin-left: 85px;
+    border-radius: 72px;
+    margin-right: 91px;
+    backdrop-filter: blur(0px);
+  }
+  
+  .firstm {
+    background-image: url(../../assets/about/pizza.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  .secondm {
+    background-image: url(../../assets/about/biryanni.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  .thirdm {
+    background-image: url(../../assets/about/burger.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  .forthm {
+    background-image: url(../../assets/about/cake.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  .designrd1 {
+    position: absolute;
+    top: 1576px;
+    left: 92px;
+    width: 37px;
+    height: 17px;
+  }
+  .designrd2{
+    position: absolute;
+  top: 1576px;
+  left: 405px;
+  width: 37px;
+  height: 17px;
+  }
+  .designrd3{
+    position: absolute;
+  top: 1576px;
+  left: 720px;
+  width: 37px;
+  height: 17px;
+  }
+  .designrd4{
+    position: absolute;
+  top: 1576px;
+  left: 1035px;
+  width: 37px;
+  height: 17px;
+  }
+  .Secondp {
+    background-image: url(../../assets/Secondp/Image1.jpg);
+    height: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 11px;
+    padding-bottom: 30px;
+  }
+  
+  .blurycon {
+    display: flex;
+    height: auto;
+    width: 100%;
+    max-width: 1336px;
+    padding: 6px;
+    flex-wrap: wrap-reverse;
+  }
+  .FirstDOIPtrs{
+    font-Size: 62px;
+    font-Family: "Brush Script MT";
+    color: white;
+  }
+  .FirstDpPTs{
+    font-size: 43px;
+    font-weight: bold;
+    text-align: right;
+  }
+  .firstscdp {
+    width: 100%;
+    height: 493px;
+    backdrop-filter: blur(16px);
+    border-radius: 24px;
+    box-shadow: 10px 11px 40px #090909;
+    padding: 5px;
+  }
+  
+  .secondscdp {
+    width: 100%;
+    height: 418px;
+    backdrop-filter: blur(16px);
+    border-radius: 24px;
+    box-shadow: 10px 11px 40px #090909;
+    padding-top: 23px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 35px;
+  }
+  
+  .ft1 {
+    width: 230px;
+    height: 172px;
+    background-image: url(../../assets/pizzawood.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  .ft2 {
+    width: 357px;
+    height: 200px;
+    margin-left: 6px;
+  }
+  
+  .ft3 {
+    width: 100%;
+    height: 229px;
+    padding: 2px;
+    text-align: left;
+  }
+  
+  .designbtncdp {
+    appearance: none;
+    background-color: #000000;
+    border: 2px solid #1A1A1A;
+    border-radius: 15px;
+    box-sizing: border-box;
+    color: #FFFFFF;
+    cursor: pointer;
+    display: inline-block;
+    font-family: Roobert, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-size: 16px;
+    font-weight: 600;
+    line-height: normal;
+    min-height: 60px;
+    min-width: 0;
+    outline: none;
+    padding: 16px 24px;
+    text-align: center;
+    text-decoration: none;
+    transition: all 300ms cubic-bezier(.23, 1, 0.32, 1);
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    width: 100%;
+    will-change: transform;
+  }
+  
+  .designbtncdp:disabled {
+    pointer-events: none;
+  }
+  
+  .designbtncdp:hover {
+    box-shadow: rgba(0, 0, 0, 0.25) 0 8px 15px;
+    transform: translateY(-2px);
+  }
+  
+  .designbtncdp:active {
+    box-shadow: none;
+    transform: translateY(0);
+  }
+  .firstjjirjhdp{
+    color: white;
+  font-size: 12px;
+  font-weight: bold;
+  }
+  .imagecdp {
+    width: 299px;
+    height: 299px;
+    background: url(../../assets/rotatepizza.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  @-webkit-keyframes imagecdp /* Safari and Chrome */ {
+    from {
+      -webkit-transform: rotate(0deg);
+      -o-transform: rotate(0deg);
+      transform: rotate(0deg);
+    }
+    to {
+      -webkit-transform: rotate(360deg);
+      -o-transform: rotate(360deg);
+      transform: rotate(360deg);
+    }
+  }
+  @keyframes imagecdp {
+    from {
+      -ms-transform: rotate(0deg);
+      -moz-transform: rotate(0deg);
+      -webkit-transform: rotate(0deg);
+      -o-transform: rotate(0deg);
+      transform: rotate(0deg);
+    }
+    to {
+      -ms-transform: rotate(360deg);
+      -moz-transform: rotate(360deg);
+      -webkit-transform: rotate(360deg);
+      -o-transform: rotate(360deg);
+      transform: rotate(360deg);
+    }
+  }
+  .imagecdp {
+    -webkit-animation: imagecdp 20s linear infinite;
+    -moz-animation: imagecdp 20s linear infinite;
+    -ms-animation: imagecdp 20s linear infinite;
+    -o-animation: imagecdp 20s linear infinite;
+    animation: imagecdp 20s linear infinite;
+  }
+  }
+
+
+@media only screen and (min-width: 768px) {
+  .Burj3984{
+    font-size: 32px;
+  font-weight: bold;
+  }
+  .burh4498{
+    font-size: 32px;
+  font-weight: bold;
+  }
+  h2{
+    text-align: center;
+  }
+  .heelouirchosej{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .h4chose1{
+    font-size: 27px;
+    font-weight: bold;
+  }
+  .h5chose1{
+    font-size: 23px;
+    font-weight: bold;
+  }
+  .BTnDESIChose4{
+      width: 74%;
+      height: 57px;
+      border-radius: 119px;
+      margin-bottom: -50px;
+  }
+  .BtnSMalllItn{
+    width: 109px;
+    height:42px;
+    border-radius: 34px;
+  }
+  .DesiFirstBT{
+    width: 65% !important;
+    height: 51px !important;
+    margin-top: -6px !important;
+    min-height:0px !important
+  }
+  .chosebody{
+    padding: 5px;
+    margin-top: 79px;
+    margin-bottom: 13px;
+    height: auto;
+  }
+  .wholechose{
+      height: auto;
+      width: 100%;
+      max-width: 1326px;
+      display: flex;
+      padding: 8px;
+      text-align: left;
+  }
+  .burgerbody{
+    height: 671px;
+    width: 43vw;
+    border-radius: 34px;
+    box-shadow: 5px 19px 27px #919191;
+  }
+  .seip2{
+    height: auto;
+    width: 54%;
+    margin-left: 10px;
+  }
+  .seis1{
+    width: 100%;
+    height: 333px;
+    display: flex;
+  }
+  .seis2{
+    height:333px;
+    display: flex;
+    margin-top: 16px;
+    width: 100%;
+  }
+  .seisf1{
+    width: 45%;
+      height: auto;
+      margin-left: 17px;
+      border-radius: 27px;
+      box-shadow: 5px 19px 27px #919191;
+      overflow: hidden;
+  }
+  .seisf2{
+    width: 45%;
+      height: auto;
+      margin-left: 17px;
+      border-radius: 27px;
+      box-shadow: 5px 19px 27px #919191;
+      overflow: hidden;
+  }
+  .seisf3{
+    width: 45%;
+      height: auto;
+      margin-left: 17px;
+      margin-top: 9px;
+      border-radius: 27px;
+      box-shadow: 5px 19px 27px #919191;
+      overflow: hidden;
+  }
+  .seisf4{
+    width: 45%;
+      height: auto;
+      margin-left: 17px;
+      margin-top: 9px;
+      border-radius: 27px;
+      box-shadow: 5px 19px 27px #919191;
+      overflow: hidden;
+  }
+  .bugimger, .buughover{
+    
+    width: 100%;
+    height: 495px;
+    border-radius: 34px 34px 0px 0px;
+  }
+  .seisf1-1,.hoversmall{
+    
+    width: 338px;
+    height: 202px;
+    border-radius: 27px 27px 0px 0px;
+  }
+  .bugimger{
+    position: relative;
+    margin: auto;
+    overflow: hidden;
+  }
+  .bugimger,.buughover {
+    transition: all 0.3s;
+    display: block;
+    transform: scale(1);
+  }
+  
+  .bugimger:hover .buughover {
+    transform: scale(1.2);
+  }
+  .seisf1-1{
+    position: relative;
+    margin: auto;
+    overflow: hidden;
+  }
+  .seisf1-1,.hoversmall {
+    transition: all 0.3s;
+    display: block;
+    transform: scale(1);
+  }
+  
+  .seisf1-1:hover .hoversmall {
+    transform: scale(1.2);
+  }
+  h2{
+    font-family:Brush Script MT;
+    font-size:80px;
+    margin-top: 10px;
+    margin-bottom: 35px;
+    text-transform: capitalize;
+  }
+  .di{
+    margin-left: 20px;
+  }
+  .meincgt{
+    background-image: url(../../assets/card/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+  }
+  .categories {
+    height: auto;
+    width: 100%;
+    max-width: 1300px;
+    text-align: left;
+    padding-bottom: 63px;
+  }
+  
+  .part1 {
+    width: 100%;
+    max-width: 1300px;
+  }
+  
+  .innerpart {
+    padding-top: 17px;
+    display: flex;
+    width: 100%;
+    max-width: 1300px;
+    flex-wrap: nowrap;
+  }
+  
+  .fdim {
+    width: 23%;
+    height: 319px;
+    margin-left: 17px;
+    border-radius: 29px;
+    box-shadow: 6px 9px 33px #000;
+    backdrop-filter: blur(16px);
+    color: white;
+    overflow: hidden;
+  }
+  
+  .picf {
+    width: 100%;
+    height: 192px;
+    border-radius: 29px 29px 0px 0px;
+    transition: 0.5s;
+  }
+  .picf:hover{
+    opacity: 2;
+  }
+  .buttonfd{
+    display: flex;
+    width: 100%;
+    max-width: 1300px;
+    backdrop-filter: blur(0px);
+  }
+  .part2 {
+    width: 100%;
+    max-width: 1300px;
+    margin-top: 23px;
+  }
+  .picf1{
+    background-image: url(../../assets/chose/chickenchilli.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .picf2{
+    background-image: url(../../assets/chose/chickenpulao.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .picf3{
+    background-image: url(../../assets/chose/chocklate\ milkshake.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .picf4{
+    background-image: url(../../assets/chose/cold\ coffe.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .picf5{
+    background-image: url(../../assets/chose/delicious\ faluda.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .picf6{
+    background-image: url(../../assets/chose/muttonbiryani.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .picf7{
+    background-image: url(../../assets/chose/spicey\ burger.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .picf8{
+    background-image: url(../../assets/chose/Spicey\ Noodles.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .picf9{
+    background-image: url(../../assets/chose/fried-rice.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .picf10{
+    background-image: url(../../assets/chose/mughlai.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .picf11{
+    background-image: url(../../assets/chose/strawberry.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .picf12{
+    background-image: url(../../assets/Foods/pizza.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  .cgfoods{
+    font-size: 16px;
+  text-align: left;
+  font-weight: bold;
+  text-align: center;
+  }
+  .pricecg{
+    font-size: 14px;
+    text-align: center;
+  }
+  .MenuOp {
+    height: auto;
+    max-width: 1296px;
+    padding-top: 5px;
+    margin-bottom: 30px;
+  }
+  .menubackground{
+    height: auto;
+    padding: 3px;
+  }
+  
+  .fistm {
+    display: flex;
+    height: 183px;
+    flex-wrap: nowrap;
+  }
+  
+  .dim {
+    width: 24%;
+    height: 174px;
+    margin-top: 2px;
+    margin-left: 13px;
+    border-radius: 10px;
+    
+  }
+  
+  .secondtm {
+    display: flex;
+    height: 157px;
+    margin-top: -62px;
+    flex-wrap: nowrap;
+  }
+  
+  .vim {
+    width: 229px;
+    height: 105px;
+    margin-top: 2px;
+    margin-left: 4.1vw;
+    border-radius: 10px;
+    margin-right: 2.2vw;
+    backdrop-filter: blur(50px);
+    box-shadow: 12px 10px 24px #5e5a5a;
+    text-align: center;
+  }
+  
+  .thirdtm {
+    display: flex;
+    height: 58px;
+    margin-top: -75px;
+  }
+  
+  .cim {
+    width: 141px;
+    height: 44px;
+    margin-top: 2px;
+    margin-left: 85px;
+    border-radius: 72px;
+    margin-right: 91px;
+    backdrop-filter: blur(0px);
+  }
+  
+  .firstm {
+    background-image: url(../../assets/about/pizza.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  .secondm {
+    background-image: url(../../assets/about/biryanni.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  .thirdm {
+    background-image: url(../../assets/about/burger.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  .forthm {
+    background-image: url(../../assets/about/cake.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  .designrd1 {
+    position: absolute;
+    top: 1576px;
+    left: 92px;
+    width: 37px;
+    height: 17px;
+  }
+  .designrd2{
+    position: absolute;
+  top: 1576px;
+  left: 405px;
+  width: 37px;
+  height: 17px;
+  }
+  .designrd3{
+    position: absolute;
+  top: 1576px;
+  left: 720px;
+  width: 37px;
+  height: 17px;
+  }
+  .designrd4{
+    position: absolute;
+  top: 1576px;
+  left: 1035px;
+  width: 37px;
+  height: 17px;
+  }
+  .Secondp {
+    background-image: url(../../assets/Secondp/Image1.jpg);
+    height: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 11px;
+    padding-bottom: 30px;
+  }
+  
+  .blurycon {
+    display: flex;
+    height: auto;
+    width: 100%;
+    max-width: 1336px;
+    padding: 6px;
+    flex-wrap: nowrap;
+  }
+  .FirstDOIPtrs{
+    font-Size: 48px;
+    font-Family: "Brush Script MT";
+  }
+  .FirstDpPTs{
+    font-size: 43px;
+    font-weight: bold;
+    text-align: right;
+  }
+  .firstscdp {
+    width: 386px;
+    height: 472px;
+    margin-right: 14px;
+    backdrop-filter: blur(16px);
+    border-radius: 24px;
+    box-shadow: 10px 11px 40px #090909;
+    padding: 5px;
+  }
+  
+  .secondscdp {
+    width: 538px;
+    height: 472px;
+    backdrop-filter: blur(16px);
+    border-radius: 24px;
+    box-shadow: 10px 11px 40px #090909;
+    padding-top: 23px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .ft1 {
+    width: 230px;
+    height: 113px;
+    background-image: url(../../assets/pizzawood.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  .ft2 {
+    width: 357px;
+    height: 200px;
+    margin-left: 6px;
+  }
+  
+  .ft3 {
+    width: 100%;
+    height: 229px;
+    padding: 2px;
+    text-align: left;
+  }
+  
+  .designbtncdp {
+    appearance: none;
+    background-color: #000000;
+    border: 2px solid #1A1A1A;
+    border-radius: 15px;
+    box-sizing: border-box;
+    color: #FFFFFF;
+    cursor: pointer;
+    display: inline-block;
+    font-family: Roobert, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-size: 16px;
+    font-weight: 600;
+    line-height: normal;
+    min-height: 60px;
+    min-width: 0;
+    outline: none;
+    padding: 16px 24px;
+    text-align: center;
+    text-decoration: none;
+    transition: all 300ms cubic-bezier(.23, 1, 0.32, 1);
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    width: 100%;
+    will-change: transform;
+  }
+  
+  .designbtncdp:disabled {
+    pointer-events: none;
+  }
+  
+  .designbtncdp:hover {
+    box-shadow: rgba(0, 0, 0, 0.25) 0 8px 15px;
+    transform: translateY(-2px);
+  }
+  
+  .designbtncdp:active {
+    box-shadow: none;
+    transform: translateY(0);
+  }
+  .firstjjirjhdp{
+    color: white;
+  font-size: 12px;
+  font-weight: bold;
+  }
+  .imagecdp {
+    width: 299px;
+    height: 299px;
+    background: url(../../assets/rotatepizza.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  @-webkit-keyframes imagecdp /* Safari and Chrome */ {
+    from {
+      -webkit-transform: rotate(0deg);
+      -o-transform: rotate(0deg);
+      transform: rotate(0deg);
+    }
+    to {
+      -webkit-transform: rotate(360deg);
+      -o-transform: rotate(360deg);
+      transform: rotate(360deg);
+    }
+  }
+  @keyframes imagecdp {
+    from {
+      -ms-transform: rotate(0deg);
+      -moz-transform: rotate(0deg);
+      -webkit-transform: rotate(0deg);
+      -o-transform: rotate(0deg);
+      transform: rotate(0deg);
+    }
+    to {
+      -ms-transform: rotate(360deg);
+      -moz-transform: rotate(360deg);
+      -webkit-transform: rotate(360deg);
+      -o-transform: rotate(360deg);
+      transform: rotate(360deg);
+    }
+  }
+  .imagecdp {
+    -webkit-animation: imagecdp 20s linear infinite;
+    -moz-animation: imagecdp 20s linear infinite;
+    -ms-animation: imagecdp 20s linear infinite;
+    -o-animation: imagecdp 20s linear infinite;
+    animation: imagecdp 20s linear infinite;
+  }
+  }
+
+
+@media only screen and (min-width: 992px) {
+  .Burj3984{
+    font-size: 42px;
+  font-weight: bold;
+  }
+  .burh4498{
+    font-size: 32px;
+  font-weight: bold;
+  }
+  h2{
+    text-align: center;
+  }
+  .heelouirchosej{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .h4chose1{
+    font-size: 27px;
+    font-weight: bold;
+  }
+  .h5chose1{
+    font-size: 23px;
+    font-weight: bold;
+  }
+  .BTnDESIChose4{
+      width: 74%;
+      height: 57px;
+      border-radius: 119px;
+      margin-bottom: -50px;
+  }
+  .BtnSMalllItn{
+    width: 138px;
+    height:42px;
+    border-radius: 34px;
+  }
+  .DesiFirstBT{
+    width: 65% !important;
+    height: 51px !important;
+    margin-top: -6px !important;
+    min-height:0px !important
+  }
+  .chosebody{
+      height: 1043px;
+      padding: 5px;
+      margin-top: 79px;
+    margin-bottom: 80px;
+  }
+  .wholechose{
+      height: 870px;
+      width: 100%;
+      max-width: 1326px;
+      display: flex;
+      padding: 8px;
+      text-align: left;
+  }
+  .burgerbody{
+    
+      height: 800px;
+      width: 43vw;
+      border-radius: 34px;
+      box-shadow: 5px 19px 27px #919191;
+  }
+  .seip2{
+    height: 848px;
+    width: 54%;
+    margin-left: 10px;
+  }
+  .seis1{
+    width: 100%;
+    height: 400px;
+    display: flex;
+  }
+  .seis2{
+    height: 400px;
+    display: flex;
+    margin-top: 16px;
+    width: 100%;
+  }
+  .seisf1{
+    width: 45%;
+      height: 390px;
+      margin-left: 17px;
+      border-radius: 27px;
+      box-shadow: 5px 19px 27px #919191;
+      overflow: hidden;
+  }
+  .seisf2{
+    width: 45%;
+      height: 390px;
+      margin-left: 17px;
+      border-radius: 27px;
+      box-shadow: 5px 19px 27px #919191;
+      overflow: hidden;
+  }
+  .seisf3{
+    width: 45%;
+      height: 390px;
+      margin-left: 17px;
+      margin-top: 9px;
+      border-radius: 27px;
+      box-shadow: 5px 19px 27px #919191;
+      overflow: hidden;
+  }
+  .seisf4{
+    width: 45%;
+      height: 390px;
+      margin-left: 17px;
+      margin-top: 9px;
+      border-radius: 27px;
+      box-shadow: 5px 19px 27px #919191;
+      overflow: hidden;
+  }
+  .bugimger, .buughover{
+    
+    width: 100%;
+    height: 622px;
+    border-radius: 34px 34px 0px 0px;
+  }
+  .seisf1-1,.hoversmall{
+    
+    width: 338px;
+    height: 269px;
+    border-radius: 27px 27px 0px 0px;
+  }
+  .bugimger{
+    position: relative;
+    margin: auto;
+    overflow: hidden;
+  }
+  .bugimger,.buughover {
+    transition: all 0.3s;
+    display: block;
+    transform: scale(1);
+  }
+  
+  .bugimger:hover .buughover {
+    transform: scale(1.2);
+  }
+  .seisf1-1{
+    position: relative;
+    margin: auto;
+    overflow: hidden;
+  }
+  .seisf1-1,.hoversmall {
+    transition: all 0.3s;
+    display: block;
+    transform: scale(1);
+  }
+  
+  .seisf1-1:hover .hoversmall {
+    transform: scale(1.2);
+  }
+  h2{
+    font-family:Brush Script MT;
+    font-size:80px;
+    margin-top: 10px;
+    margin-bottom: 35px;
+    text-transform: capitalize;
+  }
+  .di{
+    margin-left: 20px;
+  }
+  .meincgt{
+    background-image: url(../../assets/card/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+  }
+  .categories {
+    height: 1447px;
+    width: 100%;
+    max-width: 1300px;
+    text-align: left;
+  }
+  
+  .part1 {
+    width: 100%;
+    max-width: 1300px;
+  }
+  
+  .innerpart {
+    padding-top: 17px;
+    display: flex;
+    width: 100%;
+    max-width: 1300px;
+    flex-wrap: nowrap;
+  
+  }
+  
+  .fdim {
+    width: 23%;
+    height: 400px;
+    margin-left: 17px;
+    border-radius: 29px;
+    box-shadow: 6px 9px 33px #000;
+    backdrop-filter: blur(16px);
+    color: white;
+    overflow: hidden;
+  }
+  
+  .picf {
+    width: 300px;
+    height: 258px;
+    border-radius: 29px 29px 0px 0px;
+    transition: 0.5s;
+  }
+  .picf:hover{
+    opacity: 2;
+  }
+  .buttonfd{
+    display: flex;
+    width: 100%;
+    max-width: 1300px;
+    backdrop-filter: blur(0px);
+  }
+  .part2 {
+    width: 100%;
+    max-width: 1300px;
+    margin-top: 23px;
+  }
+  .picf1{
+    background-image: url(../../assets/chose/chickenchilli.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .picf2{
+    background-image: url(../../assets/chose/chickenpulao.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .picf3{
+    background-image: url(../../assets/chose/chocklate\ milkshake.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .picf4{
+    background-image: url(../../assets/chose/cold\ coffe.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .picf5{
+    background-image: url(../../assets/chose/delicious\ faluda.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .picf6{
+    background-image: url(../../assets/chose/muttonbiryani.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .picf7{
+    background-image: url(../../assets/chose/spicey\ burger.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .picf8{
+    background-image: url(../../assets/chose/Spicey\ Noodles.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .picf9{
+    background-image: url(../../assets/chose/fried-rice.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .picf10{
+    background-image: url(../../assets/chose/mughlai.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .picf11{
+    background-image: url(../../assets/chose/strawberry.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .picf12{
+    background-image: url(../../assets/Foods/pizza.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  .cgfoods{
+    font-size: 18px;
+  text-align: left;
+  font-weight: bold;
+  text-align: center;
+  }
+  .pricecg{
+    font-size: 15px;
+    text-align: center;
+  }
+  .MenuOp {
+    height: 471px;
+    max-width: 1296px;
+    padding-top: 5px;
+    margin-bottom: 30px;
+  }
+  .menubackground{
+    height: 532px;
+    padding: 21px;
+  }
+  
+  .fistm {
+    display: flex;
+    height: 183px;
+    flex-wrap: nowrap;
+  }
+  
+  .dim {
+    width: 24%;
+    height: 174px;
+    margin-top: 2px;
+    margin-left: 13px;
+    border-radius: 10px;
+    
+  }
+  
+  .secondtm {
+    display: flex;
+    height: 157px;
+    margin-top: -62px;
+    flex-wrap: nowrap;
+  }
+  
+  .vim {
+    width: 229px;
+    height: 105px;
+    margin-top: 2px;
+    margin-left: 4.1vw;
+    border-radius: 10px;
+    margin-right: 2.2vw;
+    backdrop-filter: blur(50px);
+    box-shadow: 12px 10px 24px #5e5a5a;
+    text-align: center;
+  }
+  
+  .thirdtm {
+    display: flex;
+    height: 58px;
+    margin-top: -75px;
+  }
+  
+  .cim {
+    width: 141px;
+    height: 44px;
+    margin-top: 2px;
+    margin-left: 85px;
+    border-radius: 72px;
+    margin-right: 91px;
+    backdrop-filter: blur(0px);
+  }
+  
+  .firstm {
+    background-image: url(../../assets/about/pizza.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  .secondm {
+    background-image: url(../../assets/about/biryanni.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  .thirdm {
+    background-image: url(../../assets/about/burger.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  .forthm {
+    background-image: url(../../assets/about/cake.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  .designrd1 {
+    position: absolute;
+    top: 1576px;
+    left: 92px;
+    width: 37px;
+    height: 17px;
+  }
+  .designrd2{
+    position: absolute;
+  top: 1576px;
+  left: 405px;
+  width: 37px;
+  height: 17px;
+  }
+  .designrd3{
+    position: absolute;
+  top: 1576px;
+  left: 720px;
+  width: 37px;
+  height: 17px;
+  }
+  .designrd4{
+    position: absolute;
+  top: 1576px;
+  left: 1035px;
+  width: 37px;
+  height: 17px;
+  }
+  .Secondp {
+    background-image: url(../../assets/Secondp/Image1.jpg);
+    height: 574px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 11px;
+  }
+  
+  .blurycon {
+    display: flex;
+    height: 552px;
+    width: 100%;
+    max-width: 1336px;
+    padding: 33px;
+    flex-wrap: nowrap;
+  }
+  .FirstDOIPtrs{
+    font-Size: 65px;
+    font-Family: "Brush Script MT";
+  }
+  .FirstDpPTs{
+    font-size: 43px;
+    font-weight: bold;
+    text-align: right;
+  }
+  .firstscdp {
+    width: 483px;
+    height: 472px;
+    margin-right: 14px;
+    backdrop-filter: blur(16px);
+    border-radius: 24px;
+    box-shadow: 10px 11px 40px #090909;
+    padding: 17px;
+  }
+  
+  .secondscdp {
+    width: 350px;
+    height: 472px;
+    backdrop-filter: blur(16px);
+    border-radius: 24px;
+    box-shadow: 10px 11px 40px #090909;
+    padding-top: 23px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .ft1 {
+    width: 235px;
+    height: 146px;
+    background-image: url(../../assets/pizzawood.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  .ft2 {
+    width: 357px;
+    height: 200px;
+    margin-left: 6px;
+  }
+  
+  .ft3 {
+    width: 100%;
+    height: 229px;
+    padding: 2px;
+    text-align: left;
+  }
+  
+  .designbtncdp {
+    appearance: none;
+    background-color: #000000;
+    border: 2px solid #1A1A1A;
+    border-radius: 15px;
+    box-sizing: border-box;
+    color: #FFFFFF;
+    cursor: pointer;
+    display: inline-block;
+    font-family: Roobert, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-size: 16px;
+    font-weight: 600;
+    line-height: normal;
+    min-height: 60px;
+    min-width: 0;
+    outline: none;
+    padding: 16px 24px;
+    text-align: center;
+    text-decoration: none;
+    transition: all 300ms cubic-bezier(.23, 1, 0.32, 1);
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    width: 100%;
+    will-change: transform;
+  }
+  
+  .designbtncdp:disabled {
+    pointer-events: none;
+  }
+  
+  .designbtncdp:hover {
+    box-shadow: rgba(0, 0, 0, 0.25) 0 8px 15px;
+    transform: translateY(-2px);
+  }
+  
+  .designbtncdp:active {
+    box-shadow: none;
+    transform: translateY(0);
+  }
+  .firstjjirjhdp{
+    color: white;
+  font-size: 12px;
+  font-weight: bold;
+  }
+  .imagecdp {
+    width: 370px;
+    height: 370px;
+    background: url(../../assets/rotatepizza.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  @-webkit-keyframes imagecdp /* Safari and Chrome */ {
+    from {
+      -webkit-transform: rotate(0deg);
+      -o-transform: rotate(0deg);
+      transform: rotate(0deg);
+    }
+    to {
+      -webkit-transform: rotate(360deg);
+      -o-transform: rotate(360deg);
+      transform: rotate(360deg);
+    }
+  }
+  @keyframes imagecdp {
+    from {
+      -ms-transform: rotate(0deg);
+      -moz-transform: rotate(0deg);
+      -webkit-transform: rotate(0deg);
+      -o-transform: rotate(0deg);
+      transform: rotate(0deg);
+    }
+    to {
+      -ms-transform: rotate(360deg);
+      -moz-transform: rotate(360deg);
+      -webkit-transform: rotate(360deg);
+      -o-transform: rotate(360deg);
+      transform: rotate(360deg);
+    }
+  }
+  .imagecdp {
+    -webkit-animation: imagecdp 20s linear infinite;
+    -moz-animation: imagecdp 20s linear infinite;
+    -ms-animation: imagecdp 20s linear infinite;
+    -o-animation: imagecdp 20s linear infinite;
+    animation: imagecdp 20s linear infinite;
+  }
+  }
+
+
+@media only screen and (min-width: 1200px) {
+  .Burj3984{
+    font-size: 42px;
+  font-weight: bold;
+  }
+  .burh4498{
+    font-size: 32px;
+  font-weight: bold;
+  }
 h2{
   text-align: center;
+}
+
+.h4chose1{
+  font-size: 27px;
+  font-weight: bold;
+}
+.h5chose1{
+  font-size: 23px;
+  font-weight: bold;
+}
+.heelouirchosej{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.BTnDESIChose4{
+    width:74%;
+    height: 57px;
+    border-radius: 119px;
+    margin-bottom: -50px;
+}
+.BtnSMalllItn{
+  width: 138px;
+  height:42px;
+  border-radius: 34px;
+}
+.DesiFirstBT{
+  width: 65% !important;
+  height: 51px !important;
+  margin-top: -6px !important;
+  min-height:0px !important
 }
 .chosebody{
     height: 1043px;
@@ -9,71 +2336,73 @@ h2{
 }
 .wholechose{
     height: 870px;
-    width: 1326px;
+    width: 100%;
     max-width: 1326px;
     display: flex;
     padding: 8px;
+    text-align: left;
 }
+
 .burgerbody{
   
     height: 800px;
-    width: 549px;
+    width: 44vw;
     border-radius: 34px;
     box-shadow: 5px 19px 27px #919191;
 }
 .seip2{
-    height: 848px;
-    width: 747px;
+  height: 848px;
+  width: 54%;
   margin-left: 10px;
 }
 .seis1{
-    width: 745px;
+  width: 100%;
   height: 400px;
   display: flex;
 }
 .seis2{
-    width: 745px;
   height: 400px;
   display: flex;
   margin-top: 16px;
+  width: 100%;
 }
 .seisf1{
-  
-    width: 338px;
-  height: 390px;
-  margin-left: 17px;
-  border-radius: 27px;
-  box-shadow: 5px 19px 27px #919191;
+  width: 45%;
+    height: 390px;
+    margin-left: 17px;
+    border-radius: 27px;
+    box-shadow: 5px 19px 27px #919191;
+    overflow: hidden;
 }
 .seisf2{
-  
-    width: 338px;
-  height: 390px;
-  margin-left: 17px;
-  border-radius: 27px;
-  box-shadow: 5px 19px 27px #919191;
+  width: 45%;
+    height: 390px;
+    margin-left: 17px;
+    border-radius: 27px;
+    box-shadow: 5px 19px 27px #919191;
+    overflow: hidden;
 }
 .seisf3{
-  
-    width: 338px;
-  height: 390px;
-  margin-left: 17px;
-  margin-top: 9px;
-  border-radius: 27px;
-  box-shadow: 5px 19px 27px #919191;
+  width: 45%;
+    height: 390px;
+    margin-left: 17px;
+    margin-top: 9px;
+    border-radius: 27px;
+    box-shadow: 5px 19px 27px #919191;
+    overflow: hidden;
 }
 .seisf4{
-  
-    width: 338px;
-  height: 390px;
-  margin-left: 17px;
-  margin-top: 9px;
-  border-radius: 27px;
-  box-shadow: 5px 19px 27px #919191;
+  width: 45%;
+    height: 390px;
+    margin-left: 17px;
+    margin-top: 9px;
+    border-radius: 27px;
+    box-shadow: 5px 19px 27px #919191;
+    overflow: hidden;
 }
 .bugimger, .buughover{
   
-  width: 549px;
+  width: 100%;
   height: 622px;
   border-radius: 34px 34px 0px 0px;
 }
@@ -129,32 +2458,34 @@ h2{
 }
 .categories {
   height: 1447px;
-  width: 1300px;
+  width: 100%;
   max-width: 1300px;
   text-align: left;
 }
 
 .part1 {
-  width: 1300px;
+  width: 100%;
   max-width: 1300px;
 }
 
 .innerpart {
   padding-top: 17px;
   display: flex;
-  width: 1300px;
+  width: 100%;
   max-width: 1300px;
+  flex-wrap: nowrap;
 
 }
 
 .fdim {
-  width: 300px;
+  width: 23%;
   height: 400px;
   margin-left: 17px;
   border-radius: 29px;
   box-shadow: 6px 9px 33px #000;
   backdrop-filter: blur(16px);
   color: white;
+  overflow: hidden;
 }
 
 .picf {
@@ -168,19 +2499,12 @@ h2{
 }
 .buttonfd{
   display: flex;
-  width: 1300px;
+  width: 100%;
   max-width: 1300px;
   backdrop-filter: blur(0px);
 }
-.sfdim {
-width: 188px;
-height: 75px;
-margin-left: 60px;
-margin-right: 73px;
-margin-top: -38px;
-}
 .part2 {
-  width: 1300px;
+  width: 100%;
   max-width: 1300px;
   margin-top: 23px;
 }
@@ -249,9 +2573,11 @@ margin-top: -38px;
   font-size: 25px;
 text-align: left;
 font-weight: bold;
+text-align: center;
 }
 .pricecg{
   font-size: 20px;
+  text-align: center;
 }
 .MenuOp {
   height: 471px;
@@ -267,10 +2593,11 @@ font-weight: bold;
 .fistm {
   display: flex;
   height: 183px;
+  flex-wrap: nowrap;
 }
 
 .dim {
-  width: 300px;
+  width: 24%;
   height: 174px;
   margin-top: 2px;
   margin-left: 13px;
@@ -282,15 +2609,16 @@ font-weight: bold;
   display: flex;
   height: 157px;
   margin-top: -62px;
+  flex-wrap: nowrap;
 }
 
 .vim {
   width: 229px;
   height: 105px;
   margin-top: 2px;
-  margin-left: 46px;
+  margin-left: 4.1vw;
   border-radius: 10px;
-  margin-right: 40px;
+  margin-right: 2.2vw;
   backdrop-filter: blur(50px);
   box-shadow: 12px 10px 24px #5e5a5a;
   text-align: center;
@@ -375,15 +2703,24 @@ height: 17px;
 .blurycon {
   display: flex;
   height: 552px;
-  width: 1336px;
+  width: 100%;
   max-width: 1336px;
   padding: 33px;
+  flex-wrap: nowrap;
 }
-
+.FirstDOIPtrs{
+  font-Size: 86px;
+  font-Family: "Brush Script MT";
+}
+.FirstDpPTs{
+  font-size: 43px;
+  font-weight: bold;
+  text-align: right;
+}
 .firstscdp {
   width: 647px;
   height: 472px;
-  margin-right: 75px;
+  margin-right: 14px;
   backdrop-filter: blur(16px);
   border-radius: 24px;
   box-shadow: 10px 11px 40px #090909;
@@ -391,13 +2728,16 @@ height: 17px;
 }
 
 .secondscdp {
-  width: 538px;
+  width: 50%;
   height: 472px;
   backdrop-filter: blur(16px);
   border-radius: 24px;
   box-shadow: 10px 11px 40px #090909;
   padding-top: 23px;
   padding-left: 52px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .ft1 {
@@ -503,4 +2843,5 @@ height: 17px;
   -ms-animation: imagecdp 20s linear infinite;
   -o-animation: imagecdp 20s linear infinite;
   animation: imagecdp 20s linear infinite;
+}
 }
