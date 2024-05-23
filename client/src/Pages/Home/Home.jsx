@@ -7,7 +7,6 @@ import Chose from "../../Components/Choose/chose"
 import BrandsSection from "../../Components/BrandsSection/BrandsSection"
 import Pricing2 from "../../Components/Pricing/pricing2"
 import Works from "../../Components/Works/works"
-import Join from "../../Components/JoinPartner/join"
 
 export default function Home() {
     const dispatch = useDispatch();
@@ -23,7 +22,6 @@ export default function Home() {
             <BrandsSection/>
             <Works/>
             <Pricing2/>
-            <Join/>
         </>
     )
 }

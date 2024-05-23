@@ -1,3 +1,5 @@
+
+@media only screen and (min-width: 1200px) {
 .aboutp {
     background-image: url("../../assets/about/fried-crab-with-curry-powder-plate-with-bell-peppers-tomatoes.jpg");
     height: 269px;
@@ -189,10 +191,33 @@
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
+    padding: 2rem;
 }
 .menures{
     color: white;
   font-weight: bold;
   margin-top: 5rem;
   font-size: 3.5rem;
+}
+.About448Text{
+    font-family: arial;
+    color: white ;
+    font-size: 17px;
+}
+.AbJScText{
+    margin-left: 23px;
+    font-size:24px;
+}
+.aboutr94y48textt{
+    margin-left: 163px;
+    margin-right:163px;
+}
+.row2948jnnr{
+    padding-bottom: 2rem;
+}
+.f49724iiiru{
+    background-color: black;
+  padding-top: 2rem;
+  height: 1572px;
+}
 }

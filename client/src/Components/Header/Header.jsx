@@ -35,35 +35,40 @@ export default function Header() {
   ];
 
   return (
-    <nav className="navbar navbar-expand-lg " style={{ backgroundColor: "white" }}>
-      <div className="container-fluid">
-        <a className="navbar-brand " href="/" >    <img src={Logo} style={{ width: "100px" }} alt="" /></a>
-        <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="/navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-          <span className="navbar-toggler-icon"></span>
-        </button>
-        <div className="collapse navbar-collapse" id="navbarSupportedContent">
-          <ul className="navbar-nav me-auto mb-2 mb-lg-0 text-light">
-            <li className="nav-item" style={{ marginRight: "10px" }}>
-              <Link className="nav-link heading" to="/">
+    <nav className="navbar navbar-expand-lg bg-body-light">
+  <div className="container-fluid">
+  <a className="navbar-brand " href="/" >    <img src={Logo} style={{ width: "100px" }} alt="" /></a>
+    <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <span className="navbar-toggler-icon"></span>
+    </button>
+    <div className="collapse navbar-collapse" id="navbarNav">
+      <ul className="navbar-nav">
+        <li className="nav-item">
+        <Link className="nav-link heading" to="/">
                 Home
               </Link>
-            </li>
-            <li className="nav-item" style={{ marginRight: "10px" }}>
-              <Link className="nav-link heading" to="/about">
+        </li>
+        <li className="nav-item">
+        <Link className="nav-link heading" to="/Foods">
+                Foods
+              </Link>
+        </li>
+        <li className="nav-item">
+        <Link className="nav-link heading" to="/about">
                 About Us
               </Link>
-            </li>
-            <li className="nav-item" style={{ marginRight: "10px" }}>
-              <Link className="nav-link heading" to="/contact">
+        </li>
+        <li className="nav-item">
+        <Link className="nav-link heading" to="/contact">
                 Contact Us
               </Link>
-            </li>
-          </ul>
-        </div>
-        {
+        </li>
+      </ul>
+    </div>
+      {
           isAuthenticated ? (
             
-              <div className="profile">
+              <div className="profile " >
                 <img className="dropbtn" src={user.picture} />
                 <div className="dropdown-content">
                   <ul>
@@ -73,7 +78,7 @@ export default function Header() {
             <div className="designbutton" onClick={() => loginWithRedirect()}>Login</div>
           )
         }
-      </div>
-    </nav>
+  </div>
+</nav>
   );
 }

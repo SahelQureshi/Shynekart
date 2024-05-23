@@ -8,6 +8,8 @@ import Contact from "../src/Pages/Contact/Contact";
 import Footer from "../src/Components/Footer/Footer";
 import CartDetails from "./Components/Cart/CartDetails";
 import toast, { Toaster } from 'react-hot-toast';
+import Foods1 from "./Components/Foods1/Foods1";
+
 
 function App() {
   return (
@@ -19,6 +21,9 @@ function App() {
           <Route exact path="/about" element={<About />} />
           <Route exact path="/contact" element={<Contact />} />
           <Route exact path="/cart" element={<CartDetails />} />
+          <Route exact path="/Foods" element={<Foods1/>} />
+          
+          
         </Routes>
         <Footer />
         <Toaster />

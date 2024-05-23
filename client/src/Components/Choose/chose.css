@@ -2341,6 +2341,7 @@ h2{
     display: flex;
     padding: 8px;
     text-align: left;
+    flex-wrap: nowrap;
 }
 
 .burgerbody{
