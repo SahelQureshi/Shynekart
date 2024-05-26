@@ -5,7 +5,7 @@ import Dishes from '../Data/Dishes'
 
 export default function Foods1() {
   return (
-    <div className='fodd4978'>
+    <div className='fodd4978' style={{paddingTop:"120px"}}>
       <div className="showpS1">
         <img className='listFood4' src={data.Burger.img} alt="" />
         <h5 className='fode48'>{data.Burger.Name}</h5>

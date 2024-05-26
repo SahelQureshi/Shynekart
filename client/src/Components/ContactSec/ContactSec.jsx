@@ -3,7 +3,7 @@ import "../ContactSec/contact.css";
 
 export default function ContactSec() {
   return (
-    <div className="body1">
+    <div className="body1" style={{paddingTop:"77px"}}>
       <div className="body2">
         <h1 className="UpperText">Contact Us</h1>
       </div>

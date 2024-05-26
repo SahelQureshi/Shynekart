@@ -8,6 +8,7 @@ import BrandsSection from "../../Components/BrandsSection/BrandsSection"
 import Pricing2 from "../../Components/Pricing/pricing2"
 import Works from "../../Components/Works/works"
 
+
 export default function Home() {
     const dispatch = useDispatch();
 

@@ -104,12 +104,12 @@ const CartDetails = () => {
 	};
     return (
         <>
-            <div className='row justify-content-center m-0'>
+            <div className='row justify-content-center m-0' style={{padding:"150px"}}>
                 <div className='col-md-8 mt-5 mb-5 cardsdetails'>
                     <div className="cardcart">
                         <div className="card-header bg-dark p-3">
                             <div className='cardcart-header-flex'>
-                                <h5 className='text-white m-0'>Cart Calculation{carts.length >0 ? `(${carts.length})`:""}</h5>
+                                <h5 className='text-white m-0'>Your Orders{carts.length >0 ? `(${carts.length})`:""}</h5>
                                 {
                                     carts.length > 0 ? <button className='btn btn-dangercart mt-0 btn-sm'
                                     onClick={emptycart}
@@ -127,7 +127,7 @@ const CartDetails = () => {
                                                 <td colSpan={6}>
                                                     <div className='cart-empty'>
                                                         <i className='fa fa-shopping-cart'></i>
-                                                        <p>Your Cart Is Empty</p>
+                                                        <p>Your Order List is Empty</p>
                                                     </div>
                                                 </td>
                                             </tr>

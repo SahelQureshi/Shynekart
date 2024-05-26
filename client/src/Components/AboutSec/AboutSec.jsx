@@ -7,7 +7,7 @@ import discount from "../../assets/about/discount.png"
 
 export default function AboutSec() {
   return (
-    <div>
+    <div style={{paddingTop:"80px"}}>
       <div className='aboutp'>
         <div className="container headingb">
           <h1 className='meinheadingb'>About Us</h1>
