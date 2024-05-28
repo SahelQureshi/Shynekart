@@ -1,3 +1,871 @@
+@media only screen and (min-width: 350px) {
+    .aboutp {
+        background-image: url("../../assets/about/fried-crab-with-curry-powder-plate-with-bell-peppers-tomatoes.jpg");
+        height: 220px;
+        background-size: cover;
+        background-repeat: no-repeat;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    
+    
+    .meinheadingb {
+        font-size: 3.5rem;
+        font-weight: bold;
+        color: white;
+    
+    }
+    
+    .meinintrob {
+        margin-top: 1rem;
+        margin-bottom: 4rem;
+    }
+    
+    .introduction {
+        padding-bottom: 3rem;
+    }
+    
+    .swapingbodys {
+        display: flex;
+        justify-content: space-between;
+    }
+    
+    .firstswapimage {
+    
+        width: 45%;
+        height: 185px;
+        background-image: url("../../assets/about/image1ab.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        
+    
+    }
+    
+    .secondswapimage {
+    
+        width: 45%;
+        height: 185px;
+        background-image: url("../../assets/about/image3ab.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+       
+    
+    }
+    
+    .firstswapimage:hover {
+        background-image: url("../../assets/about/image2ab.jpg");
+    }
+    
+    .secondswapimage:hover {
+        background-image: url("../../assets/about/image4ab.jpg");
+    }
+    
+    .blackbody {
+        height: auto;
+        margin-top: 2rem;
+        width: 100%;
+        max-width: 1366px;
+    }
+    
+    .image1abt {
+        background-image: url("../../assets/about/darki1.jpg");
+        width: 318px;
+    height: 172px;
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        margin-top: 1rem;
+        transition: 0.4s;
+    
+    }
+    
+    .image2abt {
+        background-image: url("../../assets/about/darki2.jpg");
+        width: 318px;
+    height: 172px;
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        margin-top: 1rem;
+        transition: 0.4s;
+    
+    
+    }
+    
+    .image3abt {
+        background-image: url("../../assets/about/darki3.jpg");
+        width: 318px;
+        height: 172px;
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        margin-top: 1rem;
+        transition: 0.4s;
+    
+    }
+    
+    .image4abt {
+        background-image: url("../../assets/about/darki4.jpg");
+        width: 318px;
+    height: 172px;
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        margin-top: 1rem;
+        transition: 0.4s;
+    
+    }
+    
+    .aboutext {
+        font-family: "Brush Script MT";
+        font-size: "80px";
+        color: goldenrod;
+        font-size: 31px;
+        transition: 0.3s;
+    }
+    
+    .aboutext:hover {
+        color: gold;
+    }
+    
+    .image1abt:hover {
+        opacity: 0.5;
+    }
+    
+    .image2abt:hover {
+        opacity: 0.5;
+    }
+    
+    .image3abt:hover {
+        opacity: 0.5;
+    }
+    
+    .image4abt:hover {
+        opacity: 0.5;
+    }
+    
+    .deliverypart {
+        width: 100%;
+        margin-top: 3rem;
+        display: flex;
+        margin-bottom: 2rem;
+        justify-content: space-evenly;
+        max-width: 1366px;
+        flex-wrap: wrap;
+    }
+    
+    .dv {
+        width: 216px;
+    margin-top: 14px;
+    border-radius: 30px;
+    transition: 0.5s;
+    text-align: left;
+    padding: 3px;
+    }
+    .dv:hover {
+        background-color:#ffa700;
+        color: white;
+    }
+    
+    .logodeli {
+        width: 193px;
+        margin: 15px;
+    }
+    
+    .firstd {
+        font-weight: bold;
+        margin-left: 26px;
+        font-size: 30px;
+    }
+    .favorite{
+        background-image: url("../../assets/about/last.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+        padding: 1rem;
+    }
+    .menures{
+        color: white;
+    font-weight: bold;
+    margin-top: 2rem;
+    font-size: 30px;
+    }
+    .About448Text{
+        font-family: arial;
+        color: white ;
+        font-size: 10px;
+    }
+    .AbJScText{
+        margin-left: 23px;
+        font-size:20px;
+    }
+    .aboutr94y48textt{
+        margin-left: 0;
+        margin-right:0;
+        font-size: 12px;
+    }
+    .row2948jnnr{
+        padding-bottom: 2rem;
+    }
+    .f49724iiiru{
+        background-color: black;
+      padding-top: 2rem;
+    }
+    }
+
+@media only screen and (min-width: 550px) {
+    .aboutp {
+        background-image: url("../../assets/about/fried-crab-with-curry-powder-plate-with-bell-peppers-tomatoes.jpg");
+        height: 220px;
+        background-size: cover;
+        background-repeat: no-repeat;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    
+    
+    .meinheadingb {
+        font-size: 3.5rem;
+        font-weight: bold;
+        color: white;
+    
+    }
+    
+    .meinintrob {
+        margin-top: 1rem;
+        margin-bottom: 4rem;
+    }
+    
+    .introduction {
+        padding-bottom: 3rem;
+    }
+    
+    .swapingbodys {
+        display: flex;
+        justify-content: space-between;
+    }
+    
+    .firstswapimage {
+    
+        width: 45%;
+        height: 185px;
+        background-image: url("../../assets/about/image1ab.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        
+    
+    }
+    
+    .secondswapimage {
+    
+        width: 45%;
+        height: 185px;
+        background-image: url("../../assets/about/image3ab.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+       
+    
+    }
+    
+    .firstswapimage:hover {
+        background-image: url("../../assets/about/image2ab.jpg");
+    }
+    
+    .secondswapimage:hover {
+        background-image: url("../../assets/about/image4ab.jpg");
+    }
+    
+    .blackbody {
+        height: auto;
+        margin-top: 2rem;
+        width: 100%;
+        max-width: 1366px;
+    }
+    
+    .image1abt {
+        background-image: url("../../assets/about/darki1.jpg");
+        width: 215px;
+    height: 137px;
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        margin-top: 1rem;
+        transition: 0.4s;
+    
+    }
+    
+    .image2abt {
+        background-image: url("../../assets/about/darki2.jpg");
+        width: 215px;
+    height: 137px;
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        margin-top: 1rem;
+        transition: 0.4s;
+    
+    
+    }
+    
+    .image3abt {
+        background-image: url("../../assets/about/darki3.jpg");
+        width: 215px;
+    height: 137px;
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        margin-top: 1rem;
+        transition: 0.4s;
+    
+    }
+    
+    .image4abt {
+        background-image: url("../../assets/about/darki4.jpg");
+        width: 215px;
+    height: 137px;
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        margin-top: 1rem;
+        transition: 0.4s;
+    
+    }
+    
+    .aboutext {
+        font-family: "Brush Script MT";
+        font-size: "80px";
+        color: goldenrod;
+        font-size: 31px;
+        transition: 0.3s;
+    }
+    
+    .aboutext:hover {
+        color: gold;
+    }
+    
+    .image1abt:hover {
+        opacity: 0.5;
+    }
+    
+    .image2abt:hover {
+        opacity: 0.5;
+    }
+    
+    .image3abt:hover {
+        opacity: 0.5;
+    }
+    
+    .image4abt:hover {
+        opacity: 0.5;
+    }
+    
+    .deliverypart {
+        width: 100%;
+        margin-top: 3rem;
+        display: flex;
+        margin-bottom: 2rem;
+        justify-content: space-evenly;
+        max-width: 1366px;
+        flex-wrap: wrap;
+    }
+    
+    .dv {
+        width: 216px;
+    margin-top: 14px;
+    border-radius: 30px;
+    transition: 0.5s;
+    text-align: left;
+    padding: 3px;
+    }
+    .dv:hover {
+        background-color:#ffa700;
+        color: white;
+    }
+    
+    .logodeli {
+        width: 193px;
+        margin: 15px;
+    }
+    
+    .firstd {
+        font-weight: bold;
+        margin-left: 26px;
+        font-size: 30px;
+    }
+    .favorite{
+        background-image: url("../../assets/about/last.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+        padding: 1rem;
+    }
+    .menures{
+        color: white;
+    font-weight: bold;
+    margin-top: 2rem;
+    font-size: 30px;
+    }
+    .About448Text{
+        font-family: arial;
+        color: white ;
+        font-size: 10px;
+    }
+    .AbJScText{
+        margin-left: 23px;
+        font-size:20px;
+    }
+    .aboutr94y48textt{
+        margin-left: 0;
+        margin-right:0;
+        font-size: 12px;
+    }
+    .row2948jnnr{
+        padding-bottom: 2rem;
+    }
+    .f49724iiiru{
+        background-color: black;
+      padding-top: 2rem;
+    }
+    }
+
+@media only screen and (min-width: 768px) {
+    .aboutp {
+        background-image: url("../../assets/about/fried-crab-with-curry-powder-plate-with-bell-peppers-tomatoes.jpg");
+        height: 220px;
+        background-size: cover;
+        background-repeat: no-repeat;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    
+    
+    .meinheadingb {
+        font-size: 3.5rem;
+        font-weight: bold;
+        color: white;
+    
+    }
+    
+    .meinintrob {
+        margin-top: 1rem;
+        margin-bottom: 4rem;
+    }
+    
+    .introduction {
+        padding-bottom: 3rem;
+    }
+    
+    .swapingbodys {
+        display: flex;
+        justify-content: space-between;
+    }
+    
+    .firstswapimage {
+    
+        width: 45%;
+        height: 185px;
+        background-image: url("../../assets/about/image1ab.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        
+    
+    }
+    
+    .secondswapimage {
+    
+        width: 45%;
+        height: 185px;
+        background-image: url("../../assets/about/image3ab.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+       
+    
+    }
+    
+    .firstswapimage:hover {
+        background-image: url("../../assets/about/image2ab.jpg");
+    }
+    
+    .secondswapimage:hover {
+        background-image: url("../../assets/about/image4ab.jpg");
+    }
+    
+    .blackbody {
+        height: auto;
+        margin-top: 2rem;
+        width: 100%;
+        max-width: 1366px;
+    }
+    
+    .image1abt {
+        background-image: url("../../assets/about/darki1.jpg");
+        width: 337px;
+    height: 204px;
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        margin-top: 1rem;
+        transition: 0.4s;
+    
+    }
+    
+    .image2abt {
+        background-image: url("../../assets/about/darki2.jpg");
+        width: 337px;
+    height: 204px;
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        margin-top: 1rem;
+        transition: 0.4s;
+    
+    
+    }
+    
+    .image3abt {
+        background-image: url("../../assets/about/darki3.jpg");
+        width: 337px;
+        height: 204px;
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        margin-top: 1rem;
+        transition: 0.4s;
+    
+    }
+    
+    .image4abt {
+        background-image: url("../../assets/about/darki4.jpg");
+        width: 337px;
+        height: 204px;
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        margin-top: 1rem;
+        transition: 0.4s;
+    
+    }
+    
+    .aboutext {
+        font-family: "Brush Script MT";
+        font-size: "80px";
+        color: goldenrod;
+        font-size: 2.5rem;
+        transition: 0.3s;
+    }
+    
+    .aboutext:hover {
+        color: gold;
+    }
+    
+    .image1abt:hover {
+        opacity: 0.5;
+    }
+    
+    .image2abt:hover {
+        opacity: 0.5;
+    }
+    
+    .image3abt:hover {
+        opacity: 0.5;
+    }
+    
+    .image4abt:hover {
+        opacity: 0.5;
+    }
+    
+    .deliverypart {
+        width: 100%;
+        margin-top: 3rem;
+        display: flex;
+        margin-bottom: 2rem;
+        justify-content: space-evenly;
+        max-width: 1366px;
+        flex-wrap: wrap;
+    }
+    
+    .dv {
+        width: 267px;
+        margin-top: 14px;
+        border-radius: 30px;
+        transition: 0.5s;
+        text-align: left;
+        padding: 15px;
+    }
+    .dv:hover {
+        background-color:#ffa700;
+        color: white;
+    }
+    
+    .logodeli {
+        width: 193px;
+        margin: 15px;
+    }
+    
+    .firstd {
+        font-weight: bold;
+        margin-left: 26px;
+        font-size: 30px;
+    }
+    .favorite{
+        background-image: url("../../assets/about/last.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+        padding: 1rem;
+    }
+    .menures{
+        color: white;
+    font-weight: bold;
+    margin-top: 2rem;
+    font-size: 2.5rem;
+    }
+    .About448Text{
+        font-family: arial;
+        color: white ;
+        font-size: 13px;
+    }
+    .AbJScText{
+        margin-left: 23px;
+        font-size:20px;
+    }
+    .aboutr94y48textt{
+        margin-left: 0;
+        margin-right:0;
+    }
+    .row2948jnnr{
+        padding-bottom: 2rem;
+    }
+    .f49724iiiru{
+        background-color: black;
+      padding-top: 2rem;
+    }
+    }
+
+
+@media only screen and (min-width: 992px) {
+    .aboutp {
+        background-image: url("../../assets/about/fried-crab-with-curry-powder-plate-with-bell-peppers-tomatoes.jpg");
+        height: 269px;
+        background-size: cover;
+        background-repeat: no-repeat;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    
+    
+    .meinheadingb {
+        font-size: 3.5rem;
+        font-weight: bold;
+        color: white;
+    
+    }
+    
+    .meinintrob {
+        margin-top: 4rem;
+        margin-bottom: 4rem;
+    }
+    
+    .introduction {
+        padding-bottom: 3rem;
+    }
+    
+    .swapingbodys {
+        display: flex;
+        justify-content: space-between;
+    }
+    
+    .firstswapimage {
+    
+        width: 400px;
+        height: 244px;
+        background-image: url("../../assets/about/image1ab.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        
+    
+    }
+    
+    .secondswapimage {
+    
+        width: 400px;
+        height: 244px;
+        background-image: url("../../assets/about/image3ab.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+       
+    
+    }
+    
+    .firstswapimage:hover {
+        background-image: url("../../assets/about/image2ab.jpg");
+    }
+    
+    .secondswapimage:hover {
+        background-image: url("../../assets/about/image4ab.jpg");
+    }
+    
+    .blackbody {
+        height: auto;
+        margin-top: 2rem;
+        width: 100%;
+        max-width: 1366px;
+    }
+    
+    .image1abt {
+        background-image: url("../../assets/about/darki1.jpg");
+        width: 432px;
+    height: 278px;
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        margin-top: 1rem;
+        transition: 0.4s;
+    
+    }
+    
+    .image2abt {
+        background-image: url("../../assets/about/darki2.jpg");
+        width: 432px;
+        height: 278px;
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        margin-top: 1rem;
+        transition: 0.4s;
+    
+    
+    }
+    
+    .image3abt {
+        background-image: url("../../assets/about/darki3.jpg");
+        width: 432px;
+    height: 278px;
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        margin-top: 1rem;
+        transition: 0.4s;
+    
+    }
+    
+    .image4abt {
+        background-image: url("../../assets/about/darki4.jpg");
+        width: 432px;
+    height: 278px;
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        margin-top: 1rem;
+        transition: 0.4s;
+    
+    }
+    
+    .aboutext {
+        font-family: "Brush Script MT";
+        font-size: "80px";
+        color: goldenrod;
+        font-size: 3.5rem;
+        transition: 0.3s;
+    }
+    
+    .aboutext:hover {
+        color: gold;
+    }
+    
+    .image1abt:hover {
+        opacity: 0.5;
+    }
+    
+    .image2abt:hover {
+        opacity: 0.5;
+    }
+    
+    .image3abt:hover {
+        opacity: 0.5;
+    }
+    
+    .image4abt:hover {
+        opacity: 0.5;
+    }
+    
+    .deliverypart {
+        width: 100%;
+        height: 700px;
+        margin-top: 3rem;
+        display: flex;
+        margin-bottom: 3rem;
+        justify-content: space-evenly;
+        max-width: 1366px;
+        flex-wrap: nowrap;
+
+    }
+    
+    .dv {
+        width: 267px;
+        height: 561px;
+        margin-top: 14px;
+        border-radius: 30px;
+        transition: 0.5s;
+        text-align: left;
+        padding: 15px;
+    }
+    
+    .dv:hover {
+        background-color:#ffa700;
+        color: white;
+    }
+    
+    .logodeli {
+        width: 193px;
+        margin: 15px;
+    }
+    
+    .firstd {
+        font-weight: bold;
+        margin-left: 26px;
+        font-size: 34px;
+    }
+    .favorite{
+        background-image: url("../../assets/about/last.jpg");
+        height: 436px;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+        padding: 2rem;
+    }
+    .menures{
+        color: white;
+      font-weight: bold;
+      margin-top: 5rem;
+      font-size: 3.5rem;
+    }
+    .About448Text{
+        font-family: arial;
+        color: white ;
+        font-size: 17px;
+    }
+    .AbJScText{
+        margin-left: 23px;
+        font-size:24px;
+    }
+    .aboutr94y48textt{
+        margin-left: 163px;
+        margin-right:163px;
+    }
+    .row2948jnnr{
+        padding-bottom: 2rem;
+    }
+    .f49724iiiru{
+        background-color: black;
+      padding-top: 2rem;
+    }
+    }
+
 
 @media only screen and (min-width: 1200px) {
 .aboutp {
@@ -5,25 +873,23 @@
     height: 269px;
     background-size: cover;
     background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
-.headingb {
-    color: white;
-    background-position: center;
-    padding-top: 6rem;
-}
+
 
 .meinheadingb {
     font-size: 3.5rem;
     font-weight: bold;
+    color: white;
 
 }
 
 .meinintrob {
     margin-top: 4rem;
     margin-bottom: 4rem;
-    width: 1225px;
-    max-width: 1225px;
 }
 
 .introduction {
@@ -32,6 +898,7 @@
 
 .swapingbodys {
     display: flex;
+    justify-content: space-between;
 }
 
 .firstswapimage {
@@ -41,8 +908,7 @@
     background-image: url("../../assets/about/image1ab.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-    margin-right: 2rem;
-    margin-left: 3rem;
+    
 
 }
 
@@ -53,7 +919,7 @@
     background-image: url("../../assets/about/image3ab.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-    margin-left: 2rem;
+   
 
 }
 
@@ -68,8 +934,8 @@
 .blackbody {
     height: auto;
     margin-top: 2rem;
-    width: 1200px;
-    max-width: 1200px;
+    width: 100%;
+    max-width: 1366px;
 }
 
 .image1abt {
@@ -150,19 +1016,19 @@
 }
 
 .deliverypart {
-    width: 1325px;
+    width: 100%;
     height: 700px;
-    max-width: 1325px;
     margin-top: 3rem;
     display: flex;
     margin-bottom: 3rem;
+    justify-content: space-evenly;
+    max-width: 1366px;
+    flex-wrap: nowrap;
 }
 
 .dv {
     width: 267px;
     height: 561px;
-    margin-left: 50px;
-    margin-right: 7px;
     margin-top: 14px;
     border-radius: 30px;
     transition: 0.5s;

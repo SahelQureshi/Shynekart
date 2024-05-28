@@ -2,7 +2,7 @@
 .pricingplan{
   margin: 0;
   padding: 0;
-  height: 842px;
+  padding-bottom: 60px;
  font-family: 'Roboto', sans-serif !important;
 }
 .card{
@@ -12,6 +12,8 @@
   background: linear-gradient(-45deg,#fe0847,#feae3f);
   border-radius: 15px;
   margin: 0 auto;
+  margin-bottom: 44px;
+  overflow: hidden;
   padding: 40px 20px;
   -webkit-box-shadow: 0 10px 15px rgba(0,0,0,.1) ;
           box-shadow: 0 10px 15px rgba(0,0,0,.1) ;

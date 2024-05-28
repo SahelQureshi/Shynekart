@@ -9,9 +9,9 @@ export default function AboutSec() {
   return (
     <div style={{paddingTop:"80px"}}>
       <div className='aboutp'>
-        <div className="container headingb">
+        
           <h1 className='meinheadingb'>About Us</h1>
-        </div>
+       
       </div>
       <div className="container meinintrob">
         <div className="introduction">
